@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+
+      @keyframes left {
+        from{
+          transform:rotate(0deg)
+        }
+        to{
+          transform:rotate(360deg)
+        }
+      }
+
+      @keyframes right { /* 6s */
+        from{
+          transform:rotate(0deg)
+        }
+
+        33.333%{
+          transform:rotate(180deg)
+        }
+
+        66.666%{
+          transform:rotate(180deg)
+        }
+
+        to{
+          transform:rotate(360deg)
+        }
+      }
+
+      @keyframes mask {
+        from{
+          z-index:-1;
+          transform: rotate(0deg);
+        }
+
+        33.333%{
+          z-index:10;
+          transform: rotate(0deg);
+        }
+
+        66.666%{
+          transform: rotate(180deg);
+          z-index:10;
+        }
+
+        to{
+          transform: rotate(180deg);
+          z-index: -1;
+        }
+      }
+
+      .circle{
+        position: relative;
+        width: 100px;
+        height: 100px;
+        background: #ddd;
+        border-radius:50%;
+        overflow: hidden;
+      }
+
+      .circle > div,.mask{
+        position: absolute;
+        width: 50px;
+        height: 100%;
+      }
+
+      .circle_half_1{
+        background: red;
+        left:0;
+        border-radius:100px 0 0 100px;
+        transform-origin: center right;
+        transform: rotate(0deg);
+        /*animation:left 3s linear infinite ; */
+        z-index: 1;
+      }
+
+      .circle_half_2{
+        background:blue;
+        right:0;
+        border-radius: 0 100px 100px 0;
+        transform-origin: center left;
+        transform: rotate(0deg);
+        animation:right 3s linear infinite ;
+        z-index: 1;
+      }
+
+      .mask{
+        z-index: -1;
+        background: #000;
+        animation:mask 9s linear infinite;
+        right: 0;
+        transform-origin:center left;
+      }
+
+      .white-space{
+        width:100px;
+        white-space: nowrap;
+      }
+
+      .letter-space {
+        letter-spacing: 10px;
+      }
+
+      .overflow{
+        width:100px;
+        overflow: hidden;
+      }
+
+      .left , .right{
+        width: 50px;
+        height: 50px;
+        background: #000;
+      }
+
+      .left{
+        float: left;
+      }
+
+      .right{
+        float:right;
+      }
+
+      @keyframes steps {
+        from{
+          background-position: 0,0;
+        }
+        to{
+          background-position: -2800px,0;
+        }
+      }
+
+      .animation-step{
+        width: 100px;
+        height: 100px;
+        background-image: url('../src/assets/img/star_sprite.png');
+        background-image: -webkit-image-set( url('../src/assets/img/star_sprite.png') 1x, url('../src/assets/img/star_sprite.png') 2x ) ;
+        animation: steps 1s steps(28) infinite;
+      }
+
+      .font-size-adjust{
+        font-size-adjust: 5;
+      }
+
+    </style>
+</head>
+<body>
+
+<svg width="108px" height="60px">
+  <path d="M 5 55 A 50 50 0 0 1 105 55"
+        fill="#fff" stroke="#E6E6E6" stroke-width="4"/>
+  <path d="M 5 55 A 50 50 0 0 1 15 25"
+        fill="#fff" stroke="#02CFD7" stroke-width="4"/>
+</svg>
+
+<div class="white-space">
+  <P > 默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。 </P>
+</div>
+
+<div class="white-space letter-space">
+  <p>
+    这个属性声明建立布局过程中如何处理元素中的空白符。值 pre-wrap 和 pre-line 是 CSS 2.1 中新增的。
+    <span>
+      <a href="">
+        <b> 很哈 </b>
+      </a>
+    </span>
+  </p>
+</div>
+
+<div class="overflow">
+  <div class="left">
+
+  </div>
+
+  <div class="right">
+
+  </div>
+  <p style="width:200px">
+    默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。默认。空白会被浏览器忽略。
+    规定应该从父元素继承 white-space 属性的值。默认。空白会被浏览器忽略。规定应该从父元素继承 white
+    -space 属性的值。默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。
+    默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。
+    默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。
+    默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。
+  </p>
+</div>
+
+<div class="animation-step">
+
+</div>
+
+<div>
+  <a href="">234234234</a>
+</div>
+
+<div class="font-size-adjust">
+  默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。默认。空白会被浏览器忽略。
+  规定应该从父元素继承 white-space 属性的值。默认。空白会被浏览器忽略。规定应该从父元素继承 white
+  -space 属性的值。默认。空白会被浏览器忽略。规定应该从父元素继承 white-space 属性的值。
+</div>
+
+<div class="circle">
+  <div class="circle_half_2">
+
+  </div>
+</div>
+
+</body>
+</html>
