@@ -6,8 +6,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Publish to npm
-        uses: pascalgn/npm-publish-action@1.1.0
       - name: build project to local
         run:
           echo build project.
