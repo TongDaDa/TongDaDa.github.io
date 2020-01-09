@@ -3,9 +3,6 @@ name: CI
 on: [push, pull_request]
 
 jobs:
-  test:
-    runs-on: ubuntu-latest
-    name: MyfirstJob
   build:
     runs-on: ubuntu-latest
     steps:
