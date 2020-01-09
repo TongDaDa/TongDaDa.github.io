@@ -1,12 +1,19 @@
 name: CI
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
-  build:
-
+  test:
     runs-on: ubuntu-latest
-
+    name: MyfirstJob
+  build:
+    runs-on: ubuntu-latest
     steps:
       - name: Publish to npm
         uses: pascalgn/npm-publish-action@1.1.0
+      - name: build project to local
+        run:
+          echo build project.
+          npm run example:build
+          cp -R ./example/.vuepress/dist ./
+          echo done.
