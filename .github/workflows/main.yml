@@ -1,14 +1,14 @@
-name: CI
-
-on: [push, pull_request]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: build project to local
-        run:
-          echo build project.
-          npm run content:build
-          cp -R ./content/.vuepress/dist ./
-          echo done.
+#name: CI
+#
+#on: [push, pull_request]
+#
+#jobs:
+#  build:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: build project to local
+#        run:
+#          echo build project.
+#          npm run content:build
+#          cp -R ./content/.vuepress/dist ./
+#          echo done.
