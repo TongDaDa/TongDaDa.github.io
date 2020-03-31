@@ -3,3 +3,4 @@ node_modules
 dist
 /content/*
 /content_1/*
+/dev/*
