@@ -9,6 +9,5 @@ jobs:
       - name: build project to local
         run:
           echo will build the project.
-#          npm run content:build
           cp -R ./docs/ ./
           echo done.
