@@ -10,5 +10,6 @@ jobs:
         run:
           echo will build the project.
           ls ./docs/
+          npm i
           cp -R ./docs/ ./
           echo done.
