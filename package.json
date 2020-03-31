@@ -9,7 +9,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "content:dev": "vuepress dev content --temp content/.temp",
-    "content:build": "vuepress build contennt --temp content/.temp",
+    "content:build": "vuepress build content --temp content/.temp",
     "prepublishOnly": "npm run content:build && conventional-changelog -p angular -r 2 -i CHANGELOG.md -s"
   },
   "repository": {
