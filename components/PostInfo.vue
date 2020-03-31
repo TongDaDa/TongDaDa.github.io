@@ -2,7 +2,7 @@
   <div class="ui-post-info d-flex">
     <div class="post-info-item">
       <CalendarIcon />
-      {{ new Date(date.trim()).toDateString() }}
+      {{ date ? new Date(date.trim()).toDateString() : null }}
     </div>
     <div
       class="post-info-item"

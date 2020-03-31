@@ -38,7 +38,32 @@ module.exports = (themeConfig, ctx) => {
         pagination: {
           lengthPerPage: 10
         }
+      },
+      {
+        id: "aboutme",
+        dirname: "_aboutme",
+        path: "/about_me/",
+        layout: "AboutMe",
+        itemLayout: "Project",
+        frontmatter: { title: "Project" },
+        itemPermalink: "/projects/:slug",
+        pagination: {
+          lengthPerPage: 10
+        }
       }
+    ],
+    comment: [
+      {
+        // Which service you'd like to use
+        service: 'vssue',
+        // The owner's name of repository to store the issues and comments.
+        owner: 'You',
+        // The name of repository to store the issues and comments.
+        repo: 'Your repo',
+        // The clientId & clientSecret introduced in OAuth2 spec.
+        clientId: 'Your clientId',
+        clientSecret: 'Your clientSecret',
+      },
     ],
     frontmatters: [
       {
@@ -137,7 +162,7 @@ module.exports = (themeConfig, ctx) => {
     if (themeConfig.summary) {
       pageCtx.summary =
         removeMd(
-            sanitizedContent    
+            sanitizedContent
             .slice(0, themeConfig.summaryLength)
         ) + " ...";
     };

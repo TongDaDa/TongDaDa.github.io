@@ -1,9 +1,9 @@
 <template>
-  <div>
+  <section>
     <Header />
     <DefaultGlobalLayout />
     <Footer />
-  </div>
+  </section>
 </template>
 
 <script>
@@ -31,3 +31,9 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+  .homepage {
+    min-height: 80vh;
+  }
+</style>

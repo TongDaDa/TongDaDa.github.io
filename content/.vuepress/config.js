@@ -1,6 +1,6 @@
 module.exports = {
-  title: "VuePress Blog Example",
-  description: "This is a blog example built by VuePress",
+  title: "A flying pig",
+  description: "一个充满理想并付诸于行动中的码农小白一名，喜欢遨游在计算机世界里，励志于成为全栈UED。",
   theme: require.resolve("../../"),
   summaryLength: 500,
   themeConfig: {
@@ -15,36 +15,42 @@ module.exports = {
         text: "Projects",
         link: "/projects/",
         icon: "el-icon-folder"
+      },
+      {
+        text: "About me",
+        link: "/about_me/",
+        icon: "el-icon-user"
       }
     ],
     sitemap: true, // enables sitemap plugin
     hostname: "https://ahmadmostafa.com/", // required for sitemap
-    disqus: "disquswebsiteshortname", // if you want to incorporate Disqus for comments replace this value else just get rid of it
+    disqus: "aflyingpig", // if you want to incorporate Disqus for comments replace this value else just get rid of it
     socialShare: true, // enables social share
+    // there will support the signa blog and zhihu.
     socialShareNetworks: ["facebook", "twitter"], // required for social share plugin
     googleAnalytics: "", // Google Analytics tracking ID
     about: {
-      fullName: "Ahmad Mostafa",
-      bio: "I am a passionate Software Engineer, I love Vue.js ♥ ...",
-      image: "https://www.ahmadmostafa.com/images/bg_1.png"
+      fullName: "Oliver",
+      bio: "I am a passionate Software Engineer",
+      image: "https://wx3.sinaimg.cn/mw690/006geSualy8fqrbnwnjjij30ro0roae2.jpg"
     },
     footer: {
       contact: [
         {
           type: "github",
-          link: "https://github.com/z3by"
+          link: "https://github.com/TongDaDa"
         },
         {
-          type: "instagram",
-          link: "#"
+          type: "segment",
+          link: "https://segmentfault.com/u/liutong"
         },
         {
           type: "linkedin",
-          link: "#"
+          link: "https://weibo.com/u/5736764406?is_all=1"
         },
         {
           type: "twitter",
-          link: "#"
+          link: "https://twitter.com/Console90Liu"
         }
       ],
       copyright: [

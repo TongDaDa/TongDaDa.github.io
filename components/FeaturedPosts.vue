@@ -15,7 +15,7 @@
         :style="{'background-image': $withBase(post.frontmatter.image) ? `url(${$withBase(post.frontmatter.image)})`: 'none', 'background-blend-mode': 'multiply', 'background-size': 'cover'}"
       >
         <div class="carousel-card-content d-flex justify-content-center align-items-center flex-column h-100">
-          <h4 class="story-title text-center h4 mb-3">{{ post.title }}</h4>
+          <h4 class="story-title text-center h4 featured-post-title mb-3">{{ post.title }}</h4>
           <router-link
             :to="post.path"
             class="el-button el-button--primary"
@@ -36,3 +36,9 @@ export default {
   }
 };
 </script>
+
+<style lang="stylus">
+  .featured-post-title {
+    color: #fff;
+  }
+</style>

@@ -1,23 +1,11 @@
 ---
-title: first-demo-project
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium hic nemo voluptatum.
-link: https://vuepress.vuejs.org/
-github: https://github.com/vuejs/vuepress/
+title: 
+description: There has some experiences about Lerna.js
 languages:
   - JS
-  - Vue
+  - React
+  - Java
 ---
-
-
-## h2 Heading
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
 
 ## Horizontal Rules
 

@@ -9,6 +9,6 @@ jobs:
       - name: build project to local
         run:
           echo build project.
-          npm run example:build
-          cp -R ./example/.vuepress/dist ./
+          npm run content:build
+          cp -R ./content/.vuepress/dist ./
           echo done.

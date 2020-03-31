@@ -4,12 +4,17 @@
     class="shadow"
   >
     <div class="p-3 d-flex justify-content-between">
-      <router-link
-        to="/"
-        class="text-decoration-none h4"
-      >
-        {{ $site.title }}
-      </router-link>
+      <div class="self-title">
+        <router-link
+          to="/"
+          class="text-decoration-none h4"
+        >
+          {{ $site.title }}
+        </router-link>
+        <span class="self-flag">
+          {{ $site.description }}
+        </span>
+      </div>
       <SearchBox />
     </div>
     <nav class="px-5">
@@ -57,5 +62,15 @@ export default {
 <style lang="stylus">
 .el-menu-item.is-active {
   border-bottom: 3px solid $accentColor !important;
+}
+.self-title {
+  display: flex;
+  flex-direction column
+}
+.self-flag {
+  font-size: 12px;
+  line-height: 1;
+  color: #666;
+  font-style: italic;
 }
 </style>

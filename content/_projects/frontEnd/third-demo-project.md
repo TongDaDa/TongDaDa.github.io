@@ -1,6 +1,6 @@
 ---
 title: third-demo-project
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium hic nemo voluptatum.
+description: Lorem ipsum dolor sit amet consectetur
 link: https://vuepress.vuejs.org/
 github: https://github.com/vuejs/vuepress/
 languages:

@@ -8,9 +8,9 @@
     "lint": "disable",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "example:dev": "vuepress dev example --temp example/.temp",
-    "example:build": "vuepress build example --temp example/.temp",
-    "prepublishOnly": "npm run example:build && conventional-changelog -p angular -r 2 -i CHANGELOG.md -s"
+    "content:dev": "vuepress dev content --temp content/.temp",
+    "content:build": "vuepress build contennt --temp content/.temp",
+    "prepublishOnly": "npm run content:build && conventional-changelog -p angular -r 2 -i CHANGELOG.md -s"
   },
   "repository": {
     "type": "git",
