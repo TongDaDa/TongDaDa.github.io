@@ -2,174 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/2016/10/14/js中如何准确判断数据类型/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2017/03/18/javascript类型介绍/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2017/05/05/javascript-symbol-隐匿的未来之星/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2017/05/05/javascript-封装对象与强制类型转换/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2017/10/21/关于javascript中的this指向/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2017/11/28/the-closure-in-javascript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2018/03/29/不为人知的javascript的内部属性/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2018/03/29/换个眼界看ie，它真的有那么可恶吗？/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2018/12/14/conclution-of-charcode/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/charcode-in-different-platform/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/debugging-in-electron/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/debugging-in-nw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/hot-update-cross-platform/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/practicing-lerna/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/the-four-kind-of-sentence-in-english/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/“痛并快乐着”于白岩松先生的《白说》/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/《专业和业余的区别》于吴军老师的第280封硅谷来信/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/《成功并不难，在于少犯错误》于-吴军老师的第187封硅谷来信/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/古希腊神话/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/属于你的那份成长曲线图/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/知识复利之路于李笑来老师的《通往财富自由之路》解读/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2019/10/14/认真做事，健康做人/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/2020/03/27/all-about-in-mobile-web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/about_me/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/css/0.styles.9e22e80b.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/UtfCharsetList.9b03794f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/aboutThis.150a683c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/aboutThis2.222f0e79.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/growing.e6ddac38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/internalPropertyOfScreen.08791107.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/internalPropertyOfScreen2.c91bbbdb.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/internalPropertyOfScreen3.4043c224.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/internalPropertyOfScreen4.b61ae9f4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/internalPropertyOfScreen5.9e641574.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/internalPropertyOfScreen6.58fc8dec.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/internalPropertyOfScreen7.a104fc07.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/introductionOfType.12671b72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/test2.788cf1a4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/timg-1.74410b82.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/timg-2.02fb2d85.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/typewriter.7c682dda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/typewriter2.e00b4bcf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/10.7a8c2c96.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/11.85490a49.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/12.519b2e37.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/13.6040c1a1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/14.54266c7d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/15.5b3500b5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/17.569e7019.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/23.733b2f4a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/24.54d8116e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/25.6a38fe1c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/26.8959c34c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/27.a737c001.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/28.41378e33.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/29.572dd77e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/3.6464e04b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/30.7c0807dd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/31.eff72006.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/32.5c2f5349.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/33.700b17aa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/34.ac04acdc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/35.e4120a21.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/36.d9ab1c8d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/37.bc2c46e8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/38.4ae95447.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/39.bceb7436.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/4.a7600332.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/40.931ea19d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/42.c013ec9a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/46.864a3710.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/5.0dee588b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/6.119af6d7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/9.f0d94462.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/page/3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/Unicode/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/computer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/diary/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/diary/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/javascript/page/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/language/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/mobile/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/python/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/webrtc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/.vuepress/components/Foo/Bar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/.vuepress/components/OtherComponent.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/.vuepress/components/demo-component.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/.vuepress/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/.vuepress/enhanceApp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/.vuepress/styles/global.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/.vuepress/styles/index.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/.vuepress/styles/palette.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/computer/conclution_of_charcode.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/css/all-about-in-mobile-web.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/diary/“痛并快乐着”于白岩松先生的《白说》.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/diary/《专业和业余的区别》于吴军老师的第280封硅谷来信.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/diary/《成功并不难，在于少犯错误》于 吴军老师的第187封硅谷来信.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/diary/古希腊神话.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/diary/属于你的那份成长曲线图.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/diary/知识复利之路于李笑来老师的《通往财富自由之路》解读.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/diary/认真做事，健康做人.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/javascript/JS中如何准确判断数据类型.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/javascript/JavaScript 封装对象与强制类型转换.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/javascript/JavaScript类型介绍.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/javascript/Javascript Symbol 隐匿的未来之星.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/javascript/practicing-lerna.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/javascript/the-closure-in-javascript.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/javascript/不为人知的javascript的内部属性.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/javascript/关于javascript中的this指向.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/javascript/换个眼界看IE，它真的有那么可恶吗？.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/language/the-four-kind-of-sentence-in-english.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/native/debugging-in-electron.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/native/debugging-in-nw.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/native/hot-update-cross-platform.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/python/charcode-in-different-platform.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_posts/webrtc/Basic_web_rtc_knowledge.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_projects/aboutWebRTC/first-demo-project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_projects/frontEnd/second-demo-project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content_1/_projects/frontEnd/third-demo-project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2019/10/14/vuepress-modern-blog-theme-copy-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2019/10/14/vuepress-modern-blog-theme-copy-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2020/01/06/basic-web-rtc-knowledge/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2019/10/14/vuepress-modern-blog-theme-copy/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/2019/10/14/vuepress-modern-blog-theme/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/css/0.styles.d2dc9f2f.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/10.74c1d567.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/16.ba59f751.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/11.3b5a5130.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/12.fb951827.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/18.c7bcebfd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/13.04a89488.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/19.7502d19f.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/14.25f3c2eb.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/20.809c3e93.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/15.c324f67a.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/21.646737f1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/16.4972ce80.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/22.6f2e744c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/17.40c62164.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/18.22006492.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/41.0ba94173.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/19.ff1bff47.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/20.d6430341.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/21.27380ec4.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/44.bf685e0b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/22.4ee255e7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/23.2429fee6.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/43.3546795b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/24.2df2ab75.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/45.d2911f57.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/25.c6a01ba7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/3.dcfb6c57.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/4.6fdbe76f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/5.870f1cb6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/6.9ab6601d.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/7.163a765b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/7.e441ebf0.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/8.3e2660de.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/8.f5b1f6ee.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/9.136bff77.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/app.00287723.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/app.c93fab48.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/vuejs-paginate.4f73ea19.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/vuejs-paginate.0315eba6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects/first-demo-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects/first-demo-project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects/second-demo-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects/second-demo-project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects/third-demo-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/projects/third-demo-project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/javascript/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/vue.js/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/vuepress-theme/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/vuepress/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -184,7 +18,8 @@
     <session id="-101356931">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.1696" value="1" />
@@ -196,7 +31,7 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -204,16 +39,16 @@
           <entry key="AboutMe" value="1" />
           <entry key="editorconfig" value="1" />
           <entry key="gitattributes" value="1" />
-          <entry key="gitignore" value="3" />
-          <entry key="html" value="7" />
+          <entry key="gitignore" value="6" />
+          <entry key="html" value="9" />
           <entry key="jpeg" value="2" />
           <entry key="jpg" value="2" />
-          <entry key="js" value="32" />
-          <entry key="json" value="9" />
-          <entry key="md" value="90" />
+          <entry key="js" value="36" />
+          <entry key="json" value="11" />
+          <entry key="md" value="99" />
           <entry key="png" value="3" />
           <entry key="styl" value="21" />
-          <entry key="vue" value="38" />
+          <entry key="vue" value="39" />
           <entry key="xml" value="1" />
           <entry key="yml" value="8" />
           <entry key="古希腊神话" value="1" />
@@ -221,14 +56,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="7" />
+          <entry key="HTML" value="9" />
           <entry key="Image" value="7" />
-          <entry key="JSON" value="9" />
-          <entry key="JavaScript" value="32" />
-          <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="JSON" value="11" />
+          <entry key="JavaScript" value="36" />
+          <entry key="Markdown" value="99" />
+          <entry key="PLAIN_TEXT" value="10" />
           <entry key="Stylus" value="21" />
-          <entry key="Vue.js" value="38" />
+          <entry key="Vue.js" value="39" />
           <entry key="XML" value="1" />
           <entry key="YAML" value="8" />
         </counts>
@@ -236,25 +71,25 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitattributes" value="1" />
-          <entry key="gitignore" value="20" />
-          <entry key="html" value="33" />
-          <entry key="js" value="386" />
-          <entry key="json" value="70" />
-          <entry key="md" value="4509" />
+          <entry key="gitignore" value="29" />
+          <entry key="html" value="34" />
+          <entry key="js" value="464" />
+          <entry key="json" value="95" />
+          <entry key="md" value="7663" />
           <entry key="styl" value="3" />
-          <entry key="vue" value="410" />
+          <entry key="vue" value="420" />
           <entry key="yml" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="33" />
-          <entry key="JSON" value="70" />
-          <entry key="JavaScript" value="387" />
-          <entry key="Markdown" value="4508" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="HTML" value="34" />
+          <entry key="JSON" value="95" />
+          <entry key="JavaScript" value="465" />
+          <entry key="Markdown" value="7662" />
+          <entry key="PLAIN_TEXT" value="30" />
           <entry key="Stylus" value="3" />
-          <entry key="Vue.js" value="410" />
+          <entry key="Vue.js" value="420" />
           <entry key="YAML" value="61" />
         </counts>
       </usages-collector>
@@ -262,29 +97,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitattributes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.github/workflows/main.yml">
+        <entry file="file://$PROJECT_DIR$/dev/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="224">
+              <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>python</find>
       <find>v-5026c29a</find>
       <find>tag</find>
       <find>unicode</find>
@@ -314,6 +146,7 @@
       <find>trackByNode</find>
       <find>page</find>
       <find>text</find>
+      <find>dist</find>
     </findStrings>
     <replaceStrings>
       <replace>jpeg</replace>
@@ -330,19 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/example/_projects/first-demo-project.md" />
-        <option value="$PROJECT_DIR$/example/_posts/python/vuepress-modern-blog-theme.md" />
-        <option value="$PROJECT_DIR$/example/_posts/webrtc/vuepress-modern-blog-theme-for.md" />
-        <option value="$PROJECT_DIR$/example/.vuepress/config.js" />
-        <option value="$PROJECT_DIR$/example/_posts/python/charcode-in-different-platform.md" />
-        <option value="$PROJECT_DIR$/components/FeaturedPosts.vue" />
-        <option value="$PROJECT_DIR$/components/PostInfo.vue" />
-        <option value="$PROJECT_DIR$/content/_posts/webrtc/videoTrak.md" />
-        <option value="$PROJECT_DIR$/content/_posts/language/charcode-in-different-platform.md" />
-        <option value="$PROJECT_DIR$/content/_posts/javascript/The-closure-in-javascript.md" />
-        <option value="$PROJECT_DIR$/content/.temp/dynamic/vuepress_blog/frontmatterClassified.js" />
-        <option value="$PROJECT_DIR$/content/_posts/language/The-four-kind-of-sentence-in-English.md" />
-        <option value="$PROJECT_DIR$/components/SearchBox.vue" />
         <option value="$PROJECT_DIR$/components/Header.vue" />
         <option value="$PROJECT_DIR$/content/_posts/python/charcode-in-different-platform.md" />
         <option value="$PROJECT_DIR$/content/_posts/diary/《专业和业余的区别》于吴军老师的第280封硅谷来信.mdd" />
@@ -378,9 +198,22 @@
         <option value="$PROJECT_DIR$/content/_posts/native/debugging-in-electron.md" />
         <option value="$PROJECT_DIR$/content/_posts/native/debugging-in-nw.md" />
         <option value="$PROJECT_DIR$/content/_posts/native/hot-update-cross-platform.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.github/workflows/main_old.yml" />
         <option value="$PROJECT_DIR$/.github/workflows/main.yml" />
+        <option value="$PROJECT_DIR$/about_me/index.html" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/python/charcode-in-different-platform.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-in-font.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/native/communication-with-browser-in-nw.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/native/communication-between-browser-and-native.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-in-mobile-web.md" />
+        <option value="$PROJECT_DIR$/dev/layouts/AboutMe.vue" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/diary/This is us.md" />
+        <option value="$PROJECT_DIR$/dev/content/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/dev/build.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/dev/package.json" />
       </list>
     </option>
   </component>
@@ -391,15 +224,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/dev/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/dev/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="470" />
+    <option name="x" value="323" />
     <option name="y" value="23" />
     <option name="width" value="1396" />
     <option name="height" value="826" />
@@ -420,13 +253,7 @@
             <path>
               <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name=".github" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name=".github" type="462c0819:PsiDirectoryNode" />
-              <item name="workflows" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -446,11 +273,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/assets/aboutMe" />
-      <recent name="$PROJECT_DIR$/content/_posts/diary" />
-      <recent name="$PROJECT_DIR$/assets/javascript" />
-      <recent name="$PROJECT_DIR$/content/_posts/javascript" />
+      <recent name="$PROJECT_DIR$/dev/assets/diary" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/diary" />
+      <recent name="$PROJECT_DIR$/dev/assets/aboutMe" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/native" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/_projects/frontEnd" />
@@ -494,18 +321,19 @@
       <workItem from="1584851150209" duration="9882000" />
       <workItem from="1584931346504" duration="1539000" />
       <workItem from="1585218049136" duration="26163000" />
-      <workItem from="1585637331276" duration="5443000" />
+      <workItem from="1585637331276" duration="28704000" />
+      <workItem from="1586086870346" duration="3008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81242000" />
+    <option name="totallyTimeSpent" value="107511000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="470" y="23" width="1396" height="826" extended-state="0" />
+    <frame x="323" y="23" width="1396" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14181818" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19418181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -517,7 +345,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.20612814" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.42339832" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -531,220 +359,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/javascript/JS中如何准确判断数据类型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="118">
-            <caret line="166" column="33" lean-forward="true" selection-start-line="166" selection-start-column="33" selection-end-line="166" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/javascript/practicing-lerna.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/javascript/the-closure-in-javascript.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="382" lean-forward="true" selection-start-line="382" selection-end-line="382" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/javascript/JavaScript 封装对象与强制类型转换.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="202">
-            <caret line="43" selection-start-line="43" selection-end-line="43" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/picture_myself/1561585496200_.pic_thumb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/picture_myself/1551585496120_.pic.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/javascript/Javascript Symbol 隐匿的未来之星.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/javascript/不为人知的javascript的内部属性.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="246">
-            <caret line="31" selection-start-line="31" selection-end-line="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/javascript/关于javascript中的this指向.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="429">
-            <caret line="64" column="22" lean-forward="true" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
-            <folding>
-              <element signature="n#!!doc" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/javascript/JavaScript类型介绍.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
-            <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/FrontmatterKey.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/.temp/internal/layout-components.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/.temp/internal/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/enhanceApp.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/diary/属于你的那份成长曲线图.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/diary/知识复利之路于李笑来老师的《通往财富自由之路》解读.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/diary/认真做事，健康做人.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="247">
-            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/Project.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/global-components/BaseListLayout.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/GlobalLayout.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_projects/frontEnd/third-demo-project.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/aboutMe/WechatIMG57.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/aboutMe/WechatIMG58.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/Layout.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/.vuepress/components/demo-component.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_projects/frontEnd/second-demo-project.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="161">
-            <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/css/all-about-in-mobile-web.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="226">
-            <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content_1/_posts/diary/知识复利之路于李笑来老师的《通往财富自由之路》解读.md" />
+    <entry file="file://$PROJECT_DIR$/content_1/_posts/diary/认真做事，健康做人.md" />
+    <entry file="file://$PROJECT_DIR$/layouts/Project.vue" />
+    <entry file="file://$PROJECT_DIR$/global-components/BaseListLayout.vue" />
+    <entry file="file://$PROJECT_DIR$/layouts/GlobalLayout.vue" />
+    <entry file="file://$PROJECT_DIR$/content_1/_projects/frontEnd/third-demo-project.md" />
+    <entry file="file://$PROJECT_DIR$/assets/aboutMe/WechatIMG57.jpeg" />
+    <entry file="file://$PROJECT_DIR$/assets/aboutMe/WechatIMG58.jpeg" />
+    <entry file="file://$PROJECT_DIR$/layouts/Layout.vue" />
+    <entry file="file://$PROJECT_DIR$/content_1/.vuepress/components/demo-component.vue" />
+    <entry file="file://$PROJECT_DIR$/content_1/_projects/frontEnd/second-demo-project.md" />
+    <entry file="file://$PROJECT_DIR$/content_1/_posts/css/all-about-in-mobile-web.md" />
     <entry file="file://$PROJECT_DIR$/../../work/client-sdk/jsSDK.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -752,171 +378,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_projects/aboutWebRTC/first-demo-project.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
-            <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/Header.vue">
+    <entry file="file://$PROJECT_DIR$/content_1/_projects/aboutWebRTC/first-demo-project.md" />
+    <entry file="file://$PROJECT_DIR$/components/Header.vue" />
+    <entry file="file://$PROJECT_DIR$/components/About.vue" />
+    <entry file="file://$PROJECT_DIR$/layouts/AboutMe.vue" />
+    <entry file="file://$PROJECT_DIR$/docs/sitemap.xml" />
+    <entry file="file://$PROJECT_DIR$/content_1/_posts/python/charcode-in-different-platform.md" />
+    <entry file="file://$PROJECT_DIR$/layouts/Projects.vue" />
+    <entry file="file://$PROJECT_DIR$/components/PostCard.vue" />
+    <entry file="file://$PROJECT_DIR$/content_1/_posts/computer/conclution_of_charcode.md" />
+    <entry file="file://$PROJECT_DIR$/content_1/.vuepress/config.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/vue/dist/vue.runtime.common.dev.js" />
+    <entry file="file://$PROJECT_DIR$/layouts/Post.vue" />
+    <entry file="file://$PROJECT_DIR$/content_1/_posts/language/the-four-kind-of-sentence-in-english.md" />
+    <entry file="file://$PROJECT_DIR$/content_1/_posts/native/debugging-in-electron.md" />
+    <entry file="file://$PROJECT_DIR$/content_1/_posts/native/debugging-in-nw.md" />
+    <entry file="file://$PROJECT_DIR$/content_1/_posts/native/hot-update-cross-platform.md" />
+    <entry file="file://$PROJECT_DIR$/docs/404.html" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/index.js" />
+    <entry file="file://$PROJECT_DIR$/docs/index.html" />
+    <entry file="file://$PROJECT_DIR$/.github/workflows/main.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/About.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/AboutMe.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="1974" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/python/charcode-in-different-platform.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="292">
-            <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/Projects.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/PostCard.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/computer/conclution_of_charcode.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/vue/dist/vue.runtime.common.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="3537" column="21" selection-start-line="3537" selection-start-column="21" selection-end-line="3537" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/Post.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-856">
-          <caret line="16" selection-start-line="16" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/language/the-four-kind-of-sentence-in-english.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/native/debugging-in-electron.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="219">
-            <caret line="23" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/native/debugging-in-nw.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/native/hot-update-cross-platform.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="186">
-            <caret line="22" selection-start-line="22" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="12" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="4" />
+        <state relative-caret-position="92">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -927,10 +412,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/workflows/main.yml">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_me/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1889">
+            <caret line="148" column="7" lean-forward="true" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/hot-update-cross-platform.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/all-about-in-mobile-web.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="437">
+            <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="311">
+            <caret line="30" selection-start-line="30" selection-end-line="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/layouts/AboutMe.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/communication-between-browser-and-native.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="22" selection-start-line="22" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="621">
+            <caret line="27" selection-start-line="27" selection-end-line="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/python/charcode-in-different-platform.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="146">
+            <caret line="40" selection-start-line="40" selection-end-line="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/diary/This is us.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="234">
+            <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
         </state>
       </provider>
     </entry>
