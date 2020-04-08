@@ -1,6 +1,6 @@
 module.exports = {
-  title: "A flying pig",
-  description: "一个充满理想并付诸于行动中的码农小白一名，喜欢遨游在计算机世界里，励志于成为全栈UED。",
+  title: "Oliver Liu",
+  description: "一个充满理想并付诸于行动中的码农小白，喜欢遨游在计算机世界里，励志于成为一名赚很多钱的程序员",
   theme: require.resolve("../../"),
   summaryLength: 500,
   themeConfig: {

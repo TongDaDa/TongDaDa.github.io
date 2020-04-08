@@ -65,11 +65,12 @@ export default {
 }
 .self-title {
   display: flex;
-  flex-direction column
+  flex-direction column;
+  margin-right: 20px;
 }
 .self-flag {
   font-size: 12px;
-  line-height: 1;
+  line-height: 1.5;
   color: #666;
   font-style: italic;
 }

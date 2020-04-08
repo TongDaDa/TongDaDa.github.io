@@ -23,7 +23,7 @@ featured: false
 
 > 前面两章介绍了几大数据类型以及值类型，接下来的这个知识点，我觉得它对于javascript程序员来说是很重要的，
 
-##认识封装对象
+## 认识封装对象
 在开始之前，我们先看一个例子，以便之后更轻松的理解封装对象的概念。
 ```javascript
    "tick".toUpperCase    //function toUpperCase()

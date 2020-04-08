@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/components/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,17 +44,17 @@
         <counts>
           <entry key="AboutMe" value="1" />
           <entry key="editorconfig" value="1" />
-          <entry key="gitattributes" value="1" />
-          <entry key="gitignore" value="6" />
-          <entry key="html" value="9" />
+          <entry key="gitattributes" value="2" />
+          <entry key="gitignore" value="7" />
+          <entry key="html" value="10" />
           <entry key="jpeg" value="2" />
           <entry key="jpg" value="2" />
-          <entry key="js" value="36" />
+          <entry key="js" value="39" />
           <entry key="json" value="11" />
-          <entry key="md" value="99" />
+          <entry key="md" value="105" />
           <entry key="png" value="3" />
           <entry key="styl" value="21" />
-          <entry key="vue" value="39" />
+          <entry key="vue" value="41" />
           <entry key="xml" value="1" />
           <entry key="yml" value="8" />
           <entry key="古希腊神话" value="1" />
@@ -56,14 +62,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="9" />
+          <entry key="HTML" value="10" />
           <entry key="Image" value="7" />
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="36" />
-          <entry key="Markdown" value="99" />
-          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="JavaScript" value="39" />
+          <entry key="Markdown" value="105" />
+          <entry key="PLAIN_TEXT" value="12" />
           <entry key="Stylus" value="21" />
-          <entry key="Vue.js" value="39" />
+          <entry key="Vue.js" value="41" />
           <entry key="XML" value="1" />
           <entry key="YAML" value="8" />
         </counts>
@@ -72,41 +78,31 @@
         <counts>
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="29" />
-          <entry key="html" value="34" />
-          <entry key="js" value="464" />
+          <entry key="html" value="35" />
+          <entry key="js" value="498" />
           <entry key="json" value="95" />
-          <entry key="md" value="7663" />
+          <entry key="md" value="9477" />
           <entry key="styl" value="3" />
-          <entry key="vue" value="420" />
+          <entry key="vue" value="422" />
           <entry key="yml" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="34" />
+          <entry key="HTML" value="35" />
           <entry key="JSON" value="95" />
-          <entry key="JavaScript" value="465" />
-          <entry key="Markdown" value="7662" />
+          <entry key="JavaScript" value="499" />
+          <entry key="Markdown" value="9476" />
           <entry key="PLAIN_TEXT" value="30" />
           <entry key="Stylus" value="3" />
-          <entry key="Vue.js" value="420" />
+          <entry key="Vue.js" value="422" />
           <entry key="YAML" value="61" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,9 +113,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>v-5026c29a</find>
-      <find>tag</find>
-      <find>unicode</find>
       <find>A flying pig</find>
       <find>很快</find>
       <find>如此</find>
@@ -147,6 +140,9 @@
       <find>page</find>
       <find>text</find>
       <find>dist</find>
+      <find>video Track</find>
+      <find>关于webRTC各个名词介绍</find>
+      <find>self-flag</find>
     </findStrings>
     <replaceStrings>
       <replace>jpeg</replace>
@@ -155,6 +151,7 @@
       <dir>$PROJECT_DIR$/styles</dir>
       <dir>$PROJECT_DIR$/content/.temp</dir>
       <dir>$PROJECT_DIR$/</dir>
+      <dir>$PROJECT_DIR$/dev</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -163,11 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/components/Header.vue" />
-        <option value="$PROJECT_DIR$/content/_posts/python/charcode-in-different-platform.md" />
-        <option value="$PROJECT_DIR$/content/_posts/diary/《专业和业余的区别》于吴军老师的第280封硅谷来信.mdd" />
-        <option value="$PROJECT_DIR$/content/_posts/diary/“痛并快乐着”于白岩松先生的《白说》.md" />
-        <option value="$PROJECT_DIR$/content/_posts/diary/《专业和业余的区别》于吴军老师的第280封硅谷来信.md" />
         <option value="$PROJECT_DIR$/content/_posts/diary/《成功并不难，在于少犯错误》于 吴军老师的第187封硅谷来信.md" />
         <option value="$PROJECT_DIR$/content/_posts/diary/古希腊神话.md" />
         <option value="$PROJECT_DIR$/content/_posts/diary/属于你的那份成长曲线图.md" />
@@ -206,14 +198,19 @@
         <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-in-font.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/native/communication-with-browser-in-nw.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/native/communication-between-browser-and-native.md" />
-        <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-in-mobile-web.md" />
         <option value="$PROJECT_DIR$/dev/layouts/AboutMe.vue" />
         <option value="$PROJECT_DIR$/dev/content/_posts/diary/This is us.md" />
-        <option value="$PROJECT_DIR$/dev/content/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/dev/build.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/dev/package.json" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md" />
+        <option value="$PROJECT_DIR$/dev/content/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md" />
+        <option value="$PROJECT_DIR$/dev/components/Header.vue" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md" />
+        <option value="$PROJECT_DIR$/tag/index.html" />
       </list>
     </option>
   </component>
@@ -231,11 +228,11 @@
       <path value="$PROJECT_DIR$/dev/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="323" />
-    <option name="y" value="23" />
-    <option name="width" value="1396" />
-    <option name="height" value="826" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="165" />
+    <option name="y" value="27" />
+    <option name="width" value="1191" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -322,18 +319,18 @@
       <workItem from="1584931346504" duration="1539000" />
       <workItem from="1585218049136" duration="26163000" />
       <workItem from="1585637331276" duration="28704000" />
-      <workItem from="1586086870346" duration="3008000" />
+      <workItem from="1586086870346" duration="15183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107511000" />
+    <option name="totallyTimeSpent" value="119686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="323" y="23" width="1396" height="826" extended-state="0" />
+    <frame x="165" y="27" width="1191" height="773" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19418181" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1965812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,12 +342,31 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.42339832" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27518797" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22820513" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32330826" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -359,11 +375,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/diary/知识复利之路于李笑来老师的《通往财富自由之路》解读.md" />
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/diary/认真做事，健康做人.md" />
-    <entry file="file://$PROJECT_DIR$/layouts/Project.vue" />
-    <entry file="file://$PROJECT_DIR$/global-components/BaseListLayout.vue" />
-    <entry file="file://$PROJECT_DIR$/layouts/GlobalLayout.vue" />
     <entry file="file://$PROJECT_DIR$/content_1/_projects/frontEnd/third-demo-project.md" />
     <entry file="file://$PROJECT_DIR$/assets/aboutMe/WechatIMG57.jpeg" />
     <entry file="file://$PROJECT_DIR$/assets/aboutMe/WechatIMG58.jpeg" />
@@ -405,13 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -423,16 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1889">
-            <caret line="148" column="7" lean-forward="true" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -456,16 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="311">
-            <caret line="30" selection-start-line="30" selection-end-line="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/layouts/AboutMe.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -478,16 +462,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
             <caret line="22" selection-start-line="22" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="621">
-            <caret line="27" selection-start-line="27" selection-end-line="27" />
           </first_editor>
           <second_editor />
         </state>
@@ -520,17 +494,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/.vuepress/config.js">
+    <entry file="file://$PROJECT_DIR$/dev/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="86">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -541,10 +508,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/package.json">
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-3113">
+            <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="23" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-163">
+            <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/global-components/NavLink.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/components/Header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="73" selection-start-line="73" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="84" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
