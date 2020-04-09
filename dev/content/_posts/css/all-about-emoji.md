@@ -1,18 +1,18 @@
 ---
 date: '2020-04-01'
-slug: all-about-emoji
+slug: all-about-in-emoji
 tags:
 - web
 - mobile
-title: All about emoji
+title: All about in emoji
 author: Oliver Liu
 location: Beijing;
 image: https://cdn.pixabay.com/photo/2020/03/31/11/59/sunrise-4987384_960_720.jpg
 meta:
   - name: title
-    content: All about emoji.
+    content: All about in emoji.
   - name: description
-    content: All about emoji.
+    content: All about in emoji.
   - name: keywords
     content: emoji, emoji in web, how to display a emoji, the format of emoji.
   - name: author
@@ -54,9 +54,36 @@ Below, is my researched some solutions for it.
 
 ----
 
-### Image
+### Image 🚀
 
-### SVG
+We can use an image to represent these emojis.(Sprite)
+ 
+Advantages
+
+- **Highest compatibility**, it support all systems and browsers which can display a image.
+- Tiny size, just need about **2.4M** to showing **877 emojis**.
+
+Disadvantages
+
+- It is a **bitmap image** which will lost clarity.
+- Just static image, does **not support animations** for a emoji.
+
+**I have finished this solution and you can visit it on [github](https://github.com/TongDaDa/easy-emoji)
+or [npm](https://www.npmjs.com/package/easy-emoji)**
+
+### SVG 😠
+
+Showing emoji using SVG have a higher experience. it would more flexible and customizable,
+but the difficult thing is the svg resources which we cannot get lots of. 😭
+
+Advantages
+
+- Vector texture, we can adjust its size optionally，yet remain its clarity.
+- It support dynamic animations for the emoji, just like the effects of `Facebook`.
+
+Disadvantages
+- If you want to support the emojis's amount as the same as `Img solution`, its costs are so high.
+- Its 
 
 ### Font
 

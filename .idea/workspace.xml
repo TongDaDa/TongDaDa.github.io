@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/assets/aboutMe/my_rsume_on.png" beforeDir="false" afterPath="$PROJECT_DIR$/dev/assets/aboutMe/my_rsume_on.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/build.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,13 +28,14 @@
           <entry key="project.open.time.1696" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,9 +47,9 @@
           <entry key="html" value="10" />
           <entry key="jpeg" value="2" />
           <entry key="jpg" value="2" />
-          <entry key="js" value="39" />
+          <entry key="js" value="41" />
           <entry key="json" value="11" />
-          <entry key="md" value="105" />
+          <entry key="md" value="107" />
           <entry key="png" value="3" />
           <entry key="styl" value="21" />
           <entry key="vue" value="41" />
@@ -65,8 +63,8 @@
           <entry key="HTML" value="10" />
           <entry key="Image" value="7" />
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="39" />
-          <entry key="Markdown" value="105" />
+          <entry key="JavaScript" value="41" />
+          <entry key="Markdown" value="107" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="Stylus" value="21" />
           <entry key="Vue.js" value="41" />
@@ -79,9 +77,9 @@
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="29" />
           <entry key="html" value="35" />
-          <entry key="js" value="498" />
+          <entry key="js" value="500" />
           <entry key="json" value="95" />
-          <entry key="md" value="9477" />
+          <entry key="md" value="11785" />
           <entry key="styl" value="3" />
           <entry key="vue" value="422" />
           <entry key="yml" value="61" />
@@ -91,8 +89,8 @@
         <counts>
           <entry key="HTML" value="35" />
           <entry key="JSON" value="95" />
-          <entry key="JavaScript" value="499" />
-          <entry key="Markdown" value="9476" />
+          <entry key="JavaScript" value="501" />
+          <entry key="Markdown" value="11784" />
           <entry key="PLAIN_TEXT" value="30" />
           <entry key="Stylus" value="3" />
           <entry key="Vue.js" value="422" />
@@ -102,7 +100,20 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -201,16 +212,16 @@
         <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-in-mobile-web.md" />
         <option value="$PROJECT_DIR$/dev/layouts/AboutMe.vue" />
         <option value="$PROJECT_DIR$/dev/content/_posts/diary/This is us.md" />
-        <option value="$PROJECT_DIR$/dev/build.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/dev/package.json" />
         <option value="$PROJECT_DIR$/dev/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md" />
         <option value="$PROJECT_DIR$/dev/content/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" />
-        <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md" />
         <option value="$PROJECT_DIR$/dev/components/Header.vue" />
-        <option value="$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md" />
         <option value="$PROJECT_DIR$/tag/index.html" />
+        <option value="$PROJECT_DIR$/dev/build.js" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md" />
       </list>
     </option>
   </component>
@@ -228,9 +239,9 @@
       <path value="$PROJECT_DIR$/dev/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="165" />
-    <option name="y" value="27" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="376" />
+    <option name="y" value="89" />
     <option name="width" value="1191" />
     <option name="height" value="773" />
   </component>
@@ -240,6 +251,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,11 +264,31 @@
               <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="dev" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,18 +351,20 @@
       <workItem from="1584931346504" duration="1539000" />
       <workItem from="1585218049136" duration="26163000" />
       <workItem from="1585637331276" duration="28704000" />
-      <workItem from="1586086870346" duration="15183000" />
+      <workItem from="1586086870346" duration="16304000" />
+      <workItem from="1586328003625" duration="556000" />
+      <workItem from="1586329947399" duration="8973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119686000" />
+    <option name="totallyTimeSpent" value="130336000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="165" y="27" width="1191" height="773" extended-state="1" />
+    <frame x="376" y="89" width="1191" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1965812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1965812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -342,7 +376,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27518797" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27518797" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -487,13 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
@@ -559,16 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/global-components/NavLink.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -593,8 +610,25 @@
     <entry file="file://$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/all-about-emoji.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
           </first_editor>
           <second_editor />
         </state>
