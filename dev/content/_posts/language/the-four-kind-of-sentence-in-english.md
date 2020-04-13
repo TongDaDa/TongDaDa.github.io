@@ -1,5 +1,5 @@
 ---
-date: '2019-10-14'
+date: '2020-4-11'
 slug: the-four-kind-of-sentence-in-english
 tags:
 - language

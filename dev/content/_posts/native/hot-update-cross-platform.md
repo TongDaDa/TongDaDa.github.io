@@ -1,21 +1,21 @@
 ---
-date: '2019-10-14'
-slug: Python ***
+date: '2020-04-10'
+slug: hot-update-cross-platform
 tags:
-- language
-title: The closure in javascript
-author: Oliver
+- native
+title: Hot update in nw and electron
+author: Oliver Liu, 刘彤
 location: Beijing;
-image: https://i.picsum.photos/id/79/800/600.jpg
+image: https://cdn.pixabay.com/photo/2020/04/06/14/15/landscape-5009868__340.jpg
 meta:
   - name: title
-    content: The perform of python's unicode problem on different computer
+    content: Hot update in nw and electron
   - name: description
-    content: The perform of python's unicode problem on different computer
+    content: A Updater for nw and electron, hot update in nw and update application's version in electron or nw.
   - name: keywords
-    content: Unicode, ASCII, Python2, Python3, messy code, unreadable code.
+    content: Updater 
   - name: author
-    content: 刘彤
+    content: Oliver Liu, 刘彤
   - name: language
     content: English
 featured: false

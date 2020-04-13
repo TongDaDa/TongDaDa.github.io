@@ -31,8 +31,8 @@ module.exports = {
     googleAnalytics: "", // Google Analytics tracking ID
     about: {
       fullName: "Oliver",
-      bio: "I am a passionate Software Engineer",
-      image: "https://wx3.sinaimg.cn/mw690/006geSualy8fqrbnwnjjij30ro0roae2.jpg"
+      bio: "The passionate coding was my pursuit for a long time and I love the open source culture",
+      image: "https://s.gravatar.com/avatar/e1f9f7c451d11f5d8bf9508f7a22f36c?size=496&default=retro"
     },
     footer: {
       contact: [

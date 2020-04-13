@@ -111,6 +111,7 @@ export default {
   }
 
   .card-img-bg {
+    overflow hidden;
     background: $accentColor;
     background: linear-gradient(to right, $accentColor, lighten($accentColor, 30%));
   }

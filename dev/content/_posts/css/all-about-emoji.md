@@ -85,6 +85,3 @@ Disadvantages
 - If you want to support the emojis's amount as the same as `Img solution`, its costs are so high.
 - Its 
 
-### Font
-
-## Conclusion
