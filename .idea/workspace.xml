@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/language/翻译理论.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/javascript/eslint/lint-for-sourcetree.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/javascript/eslint/lint-staged.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/javascript/lint-staged.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/javascript/prettier/fixonWebstorm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/javascript/优质代码从格式和规则开始.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/language/the-four-kind-of-sentence-in-english.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/language/the-four-kind-of-sentence-in-english.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,12 +22,13 @@
     <session id="-101356931">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.1696" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="1" />
@@ -35,7 +39,7 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,7 +53,7 @@
           <entry key="jpg" value="2" />
           <entry key="js" value="42" />
           <entry key="json" value="12" />
-          <entry key="md" value="131" />
+          <entry key="md" value="134" />
           <entry key="png" value="3" />
           <entry key="styl" value="21" />
           <entry key="vue" value="42" />
@@ -65,7 +69,7 @@
           <entry key="Image" value="7" />
           <entry key="JSON" value="12" />
           <entry key="JavaScript" value="42" />
-          <entry key="Markdown" value="131" />
+          <entry key="Markdown" value="134" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Stylus" value="21" />
           <entry key="Vue.js" value="42" />
@@ -80,7 +84,7 @@
           <entry key="html" value="35" />
           <entry key="js" value="527" />
           <entry key="json" value="96" />
-          <entry key="md" value="17192" />
+          <entry key="md" value="21430" />
           <entry key="styl" value="3" />
           <entry key="vue" value="447" />
           <entry key="yml" value="61" />
@@ -89,9 +93,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="35" />
-          <entry key="JSON" value="96" />
+          <entry key="JSON" value="97" />
           <entry key="JavaScript" value="528" />
-          <entry key="Markdown" value="17191" />
+          <entry key="Markdown" value="21428" />
           <entry key="PLAIN_TEXT" value="30" />
           <entry key="Stylus" value="3" />
           <entry key="Vue.js" value="447" />
@@ -101,13 +105,13 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/翻译理论.md">
+        <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/优质代码从格式和规则开始.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="194">
-                <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <first_editor relative-caret-position="243">
+                <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -125,9 +129,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>###</find>
-      <find>#</find>
-      <find>图片描述</find>
       <find>![</find>
       <find>##</find>
       <find>Project.vue</find>
@@ -155,6 +156,9 @@
       <find>image</find>
       <find>el-card</find>
       <find>card-img-bg</find>
+      <find>internalPropertyOfScreen</find>
+      <find>test</find>
+      <find>text-c</find>
     </findStrings>
     <replaceStrings>
       <replace>jpeg</replace>
@@ -168,6 +172,7 @@
       <dir>$PROJECT_DIR$/dev/content/.vuepress/components</dir>
       <dir>$PROJECT_DIR$/dev/global-components</dir>
       <dir>$PROJECT_DIR$/dev/layouts</dir>
+      <dir>$PROJECT_DIR$/dev/content/_posts</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -176,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/_posts/javascript/practicing-lerna.md" />
         <option value="$PROJECT_DIR$/content/_posts/javascript/the-closure-in-javascript.md" />
         <option value="$PROJECT_DIR$/content/_posts/javascript/不为人知的javascript的内部属性.md" />
         <option value="$PROJECT_DIR$/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md" />
@@ -227,6 +231,7 @@
         <option value="$PROJECT_DIR$/dev/content/_posts/language/the-four-kind-of-sentence-in-english.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/language/翻译理论_1.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/language/翻译理论.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/javascript/优质代码从格式和规则开始.md" />
       </list>
     </option>
   </component>
@@ -245,10 +250,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="479" />
-    <option name="y" value="97" />
-    <option name="width" value="1432" />
-    <option name="height" value="726" />
+    <option name="x" value="345" />
+    <option name="y" value="63" />
+    <option name="width" value="1245" />
+    <option name="height" value="779" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -256,6 +261,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,6 +278,12 @@
               <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -287,13 +299,12 @@
               <item name="dev" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="language" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,19 +317,19 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev/assets/javascript" />
+      <recent name="$PROJECT_DIR$/dev/assets/javascript/prettier" />
+      <recent name="$PROJECT_DIR$/dev/assets/javascript/eslint" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/javascript" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/language" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/_projects/frontEnd" />
       <recent name="$PROJECT_DIR$/content/_projects/aboutWebRTC" />
       <recent name="$PROJECT_DIR$/assets/picture_myself" />
       <recent name="$PROJECT_DIR$/example/_posts/python" />
       <recent name="$PROJECT_DIR$/example/_posts/webrtc" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dev/content/_posts/language" />
-      <recent name="$PROJECT_DIR$/dev/assets/diary" />
-      <recent name="$PROJECT_DIR$/dev/content/_posts/diary" />
-      <recent name="$PROJECT_DIR$/dev/assets/aboutMe" />
-      <recent name="$PROJECT_DIR$/dev/content/_posts/native" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -363,22 +374,23 @@
       <workItem from="1586918263912" duration="24371000" />
       <workItem from="1587108576848" duration="120000" />
       <workItem from="1587108743549" duration="2947000" />
-      <workItem from="1587118335972" duration="10094000" />
+      <workItem from="1587118335972" duration="12247000" />
+      <workItem from="1587438721389" duration="14168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177287000" />
+    <option name="totallyTimeSpent" value="193608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="479" y="97" width="1432" height="726" extended-state="0" />
+    <frame x="345" y="63" width="1245" height="779" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1112686" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12826797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -386,7 +398,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33009708" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.41579732" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -681,13 +693,23 @@
     <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/翻译理论.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="194">
-            <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <first_editor relative-caret-position="138">
+            <caret line="137" selection-start-line="137" selection-end-line="138" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
       <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/优质代码从格式和规则开始.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="243">
+            <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
