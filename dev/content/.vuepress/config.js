@@ -28,7 +28,7 @@ module.exports = {
     socialShare: true, // enables social share
     // there will support the signa blog and zhihu.
     socialShareNetworks: ["facebook", "twitter"], // required for social share plugin
-    googleAnalytics: "", // Google Analytics tracking ID
+    googleAnalytics: "UA-164508376-1", // Google Analytics tracking ID
     about: {
       fullName: "Oliver",
       bio: "The passionate coding was my pursuit for a long time and I love the open source culture",
