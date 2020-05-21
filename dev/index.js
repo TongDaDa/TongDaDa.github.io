@@ -45,7 +45,7 @@ module.exports = (themeConfig, ctx) => {
         path: "/about_me/",
         layout: "AboutMe",
         itemLayout: "Project",
-        frontmatter: { title: "Project" },
+        frontmatter: { title: "AboutMe" },
         itemPermalink: "/projects/:slug",
         pagination: {
           lengthPerPage: 10

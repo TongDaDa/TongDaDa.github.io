@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dev/assets/computer/baudot_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/computer/baudot_presskey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/computer/morse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/computer/teleprinter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/css/bezier.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/javascript/lerna_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/javascript/lerna_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/computer/破解google语音合成接口.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/css/刨析缓动函数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/diary/Best gift for friends.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/economy/货币流通与房价的关系.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/java/jwt的使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/language/writing-flag.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/language/马克吐温.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/node/老掉牙的事件队列(平民版).md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/javascript/practicing-lerna.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/javascript/practicing-lerna.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,26 +36,31 @@
     <session id="-101356931">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.1696" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,13 +71,13 @@
           <entry key="gitignore" value="7" />
           <entry key="html" value="10" />
           <entry key="jpeg" value="2" />
-          <entry key="jpg" value="2" />
-          <entry key="js" value="45" />
+          <entry key="jpg" value="5" />
+          <entry key="js" value="48" />
           <entry key="json" value="12" />
-          <entry key="md" value="134" />
-          <entry key="png" value="3" />
+          <entry key="md" value="155" />
+          <entry key="png" value="7" />
           <entry key="styl" value="21" />
-          <entry key="vue" value="42" />
+          <entry key="vue" value="43" />
           <entry key="xml" value="1" />
           <entry key="yml" value="8" />
           <entry key="古希腊神话" value="1" />
@@ -64,13 +87,13 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="10" />
-          <entry key="Image" value="7" />
+          <entry key="Image" value="14" />
           <entry key="JSON" value="12" />
-          <entry key="JavaScript" value="45" />
-          <entry key="Markdown" value="134" />
+          <entry key="JavaScript" value="48" />
+          <entry key="Markdown" value="155" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Stylus" value="21" />
-          <entry key="Vue.js" value="42" />
+          <entry key="Vue.js" value="43" />
           <entry key="XML" value="1" />
           <entry key="YAML" value="8" />
         </counts>
@@ -80,11 +103,11 @@
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="29" />
           <entry key="html" value="35" />
-          <entry key="js" value="530" />
+          <entry key="js" value="534" />
           <entry key="json" value="96" />
-          <entry key="md" value="21431" />
+          <entry key="md" value="28914" />
           <entry key="styl" value="3" />
-          <entry key="vue" value="447" />
+          <entry key="vue" value="448" />
           <entry key="yml" value="61" />
         </counts>
       </usages-collector>
@@ -92,11 +115,11 @@
         <counts>
           <entry key="HTML" value="35" />
           <entry key="JSON" value="97" />
-          <entry key="JavaScript" value="531" />
-          <entry key="Markdown" value="21429" />
+          <entry key="JavaScript" value="535" />
+          <entry key="Markdown" value="28912" />
           <entry key="PLAIN_TEXT" value="30" />
           <entry key="Stylus" value="3" />
-          <entry key="Vue.js" value="447" />
+          <entry key="Vue.js" value="448" />
           <entry key="YAML" value="61" />
         </counts>
       </usages-collector>
@@ -104,29 +127,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="124" column="38" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/content/.vuepress/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="361">
+                <caret line="183" lean-forward="true" selection-start-line="183" selection-end-line="183" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/content/.temp/internal/siteData.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19702">
-              <caret line="4691" column="14" selection-start-line="4691" selection-start-column="14" selection-end-line="4691" selection-end-column="14" />
+        <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/马克吐温.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="698">
+                <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -142,14 +162,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Project.vue</find>
-      <find>layouts/</find>
-      <find>layouts</find>
-      <find>About me</find>
-      <find>projects</find>
-      <find>王思聪</find>
-      <find>过反复的遗忘，反复的练习，反复的更迭才彻底弄明白</find>
-      <find>Projects</find>
       <find>GlobalLayout</find>
       <find>base-list-layout</find>
       <find>DefaultGlobalLayout</find>
@@ -172,6 +184,14 @@
       <find>text-c</find>
       <find>googleAnalytics</find>
       <find>analy</find>
+      <find>翻译</find>
+      <find>img</find>
+      <find>笔头</find>
+      <find>text-center</find>
+      <find>Best gift for friends</find>
+      <find>lerna</find>
+      <find>calcHash</find>
+      <find>about</find>
     </findStrings>
     <replaceStrings>
       <replace>jpeg</replace>
@@ -184,8 +204,10 @@
       <dir>$PROJECT_DIR$/dev/content/.vuepress/components</dir>
       <dir>$PROJECT_DIR$/dev/global-components</dir>
       <dir>$PROJECT_DIR$/dev/layouts</dir>
-      <dir>$PROJECT_DIR$/dev/content/_posts</dir>
       <dir>$PROJECT_DIR$/dev</dir>
+      <dir>$PROJECT_DIR$/dev/content/_posts/language</dir>
+      <dir>$PROJECT_DIR$/dev/content/_posts/node</dir>
+      <dir>$PROJECT_DIR$/dev/content/_posts</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -194,15 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/_posts/javascript/the-closure-in-javascript.md" />
-        <option value="$PROJECT_DIR$/content/_posts/javascript/不为人知的javascript的内部属性.md" />
-        <option value="$PROJECT_DIR$/content/_posts/javascript/JavaScript 封装对象与强制类型转换.md" />
-        <option value="$PROJECT_DIR$/content/_posts/javascript/JavaScript类型介绍.md" />
-        <option value="$PROJECT_DIR$/content/_posts/javascript/Javascript Symbol 隐匿的未来之星.md" />
-        <option value="$PROJECT_DIR$/content/_posts/javascript/关于javascript中的this指向.md" />
-        <option value="$PROJECT_DIR$/content/_projects/first-demo-project.md" />
-        <option value="$PROJECT_DIR$/content/_posts/diary/知识复利之路于李笑来老师的《通往财富自由之路》解读.md" />
-        <option value="$PROJECT_DIR$/content/_posts/diary/认真做事，健康做人.md" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/content/_projects/second-demo-project.md" />
         <option value="$PROJECT_DIR$/content/_projects/third-demo-project.md" />
@@ -234,7 +247,6 @@
         <option value="$PROJECT_DIR$/tag/index.html" />
         <option value="$PROJECT_DIR$/dev/build.js" />
         <option value="$PROJECT_DIR$/dev/content/_posts/diary/认真做事，健康做人.md" />
-        <option value="$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/native/debugging-in-electron-and-nw.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/native/communication-between-browser-and-native.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/native/hot-update-cross-platform.md" />
@@ -245,6 +257,16 @@
         <option value="$PROJECT_DIR$/dev/content/_posts/language/翻译理论.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/javascript/优质代码从格式和规则开始.md" />
         <option value="$PROJECT_DIR$/dev/content/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/css/css之缓动函数.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/node/老掉牙的事件队列(平民版).md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/diary/Best gift for friends.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/language/writing-flag.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/economy/货币流通与房价的关系.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/javascript/practicing-lerna.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/computer/破解google语音合成接口.md" />
+        <option value="$PROJECT_DIR$/dev/index.js" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/language/马克吐温.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md" />
       </list>
     </option>
   </component>
@@ -263,10 +285,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="267" />
-    <option name="y" value="32" />
-    <option name="width" value="1245" />
-    <option name="height" value="779" />
+    <option name="x" value="175" />
+    <option name="y" value="25" />
+    <option name="width" value="1265" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -286,6 +308,27 @@
               <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="dev" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="computer" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -301,21 +344,22 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dev/assets/javascript" />
-      <recent name="$PROJECT_DIR$/dev/assets/javascript/prettier" />
-      <recent name="$PROJECT_DIR$/dev/assets/javascript/eslint" />
-      <recent name="$PROJECT_DIR$/dev/content/_posts/javascript" />
       <recent name="$PROJECT_DIR$/dev/content/_posts/language" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/computer" />
+      <recent name="$PROJECT_DIR$/dev/assets/javascript" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/economy" />
+      <recent name="$PROJECT_DIR$/dev/assets/computer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev/content/_posts/translations" />
       <recent name="$PROJECT_DIR$/content/_projects/frontEnd" />
       <recent name="$PROJECT_DIR$/content/_projects/aboutWebRTC" />
       <recent name="$PROJECT_DIR$/assets/picture_myself" />
       <recent name="$PROJECT_DIR$/example/_posts/python" />
-      <recent name="$PROJECT_DIR$/example/_posts/webrtc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -363,22 +407,29 @@
       <workItem from="1587118335972" duration="12247000" />
       <workItem from="1587438721389" duration="14168000" />
       <workItem from="1587649264130" duration="599000" />
-      <workItem from="1587706397126" duration="178000" />
+      <workItem from="1587706397126" duration="7582000" />
+      <workItem from="1588041673412" duration="24466000" />
+      <workItem from="1588643746525" duration="12762000" />
+      <workItem from="1589253221615" duration="17000" />
+      <workItem from="1589378258507" duration="6347000" />
+      <workItem from="1589443802874" duration="5857000" />
+      <workItem from="1589703168279" duration="896000" />
+      <workItem from="1589857442733" duration="9370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194385000" />
+    <option name="totallyTimeSpent" value="261504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="267" y="32" width="1245" height="779" extended-state="0" />
+    <frame x="175" y="25" width="1265" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12826797" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16237941" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32674772" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -386,18 +437,18 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32041728" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16573817" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22820513" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16121309" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32674772" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -405,7 +456,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32330826" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27963525" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -419,20 +470,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/layouts/AboutMe.vue" />
-    <entry file="file://$PROJECT_DIR$/docs/sitemap.xml" />
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/python/charcode-in-different-platform.md" />
-    <entry file="file://$PROJECT_DIR$/layouts/Projects.vue" />
-    <entry file="file://$PROJECT_DIR$/components/PostCard.vue" />
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/computer/conclution_of_charcode.md" />
-    <entry file="file://$PROJECT_DIR$/content_1/.vuepress/config.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/vue/dist/vue.runtime.common.dev.js" />
-    <entry file="file://$PROJECT_DIR$/layouts/Post.vue" />
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/language/the-four-kind-of-sentence-in-english.md" />
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/native/debugging-in-electron.md" />
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/native/debugging-in-nw.md" />
-    <entry file="file://$PROJECT_DIR$/content_1/_posts/native/hot-update-cross-platform.md" />
-    <entry file="file://$PROJECT_DIR$/docs/404.html" />
     <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/index.js" />
     <entry file="file://$PROJECT_DIR$/docs/index.html" />
@@ -454,13 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/layouts/AboutMe.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -533,26 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="132">
-            <caret line="23" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/all-about-in-mobile-web.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="19" selection-start-line="19" selection-end-line="20" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -664,6 +674,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/翻译理论_1.md" />
     <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/翻译理论.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="138">
@@ -672,13 +683,12 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/优质代码从格式和规则开始.md">
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/all-about-in-mobile-web.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <first_editor relative-caret-position="155">
+            <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
@@ -686,22 +696,161 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/content/.temp/internal/siteData.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19702">
+        <state relative-caret-position="-7">
           <caret line="4691" column="14" selection-start-line="4691" selection-start-column="14" selection-end-line="4691" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="124" column="38" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/css/刨析缓动函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/优质代码从格式和规则开始.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="101">
+            <caret line="47" selection-start-line="47" selection-end-line="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="161">
+            <caret line="7" selection-start-line="7" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/node/老掉牙的事件队列(平民版).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/java/jwt的使用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="121">
+            <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/assets/computer/morse.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/assets/computer/baudot_code.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/economy/货币流通与房价的关系.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="368">
+            <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/writing-flag.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-676">
+            <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/diary/Best gift for friends.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="382">
+            <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/assets/javascript/lerna_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/assets/javascript/lerna_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/破解google语音合成接口.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/practicing-lerna.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="166">
+            <caret line="64" selection-start-line="64" selection-end-line="64" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/content/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="285">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/layouts/AboutMe.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/马克吐温.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="698">
+            <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/conclution_of_charcode.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="361">
+            <caret line="183" lean-forward="true" selection-start-line="183" selection-end-line="183" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
