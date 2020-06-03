@@ -1,19 +1,19 @@
 ---
-date: '2019-10-14'
-slug: 老掉牙的事件队列(平民版)
+date: '2020-05-25'
+slug: node各个环境变量详解
 tags:
 - native
-title: 老掉牙的事件队列(平民版)
-author: Oliver
+title: node各个环境变量详解
+author: Oliver Liu
 location: Beijing;
-image: https://cdn.pixabay.com/photo/2020/04/06/12/37/daisy-5009532_960_720.jpg
+image: https://cdn.pixabay.com/photo/2020/05/21/11/03/lily-of-the-valley-5200245__340.jpg
 meta:
   - name: title
-    content: 老掉牙的事件队列(平民版)
+    content: node各个环境变量详解
   - name: description
-    content: 老掉牙的事件队列(平民版), js, javascript, event queue, 事件队列
+    content: node各个环境变量详解, js, javascript, node
   - name: keywords
-    content: 老掉牙的事件队列(平民版), js, javascript, event queue, 事件队列
+    content: node各个环境变量详解, js, javascript, node
   - name: author
     content: 刘彤, Oliver Liu
   - name: language
@@ -21,4 +21,10 @@ meta:
 featured: false
 ---
 
-Waiting for writing.
+前段时间在fork出来的一个node进程中，用shell执行一些命令，但是死活提示找不到路径，错误如下。
+
+```log
+env: node: No such file or directory
+```
+
+经过一番调查之后，才发现

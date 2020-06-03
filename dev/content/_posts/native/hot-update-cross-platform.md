@@ -1,5 +1,5 @@
 ---
-date: '2020-04-10'
+date: '2020-05-17'
 slug: hot-update-cross-platform
 tags:
 - native

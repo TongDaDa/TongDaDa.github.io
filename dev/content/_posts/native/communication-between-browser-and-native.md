@@ -1,12 +1,12 @@
 ---
-date: '2019-10-14'
+date: '2020-04-14'
 slug: communication-between-browser-and-native
 tags:
 - native
 title: How to establish a message channel between browser and native application?
-author: Oliver
+author: Oliver Liu.
 location: Beijing;
-image: https://cdn.pixabay.com/photo/2020/04/06/12/37/daisy-5009532_960_720.jpg
+image: https://cdn.pixabay.com/photo/2020/05/23/16/23/eid-mubarak-5210294__340.jpg
 meta:
   - name: title
     content: How to establish a message channel between browser and native application?
@@ -20,8 +20,6 @@ meta:
     content: English
 featured: false
 ---
-
-Waiting for writing.
 
 Yes, as for as the title of the article, we want to exchange message with browser and send a message to native applications.
 

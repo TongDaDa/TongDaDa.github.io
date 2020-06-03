@@ -1,5 +1,5 @@
 ---
-date: '2019-12-14'
+date: '2020-05-18'
 slug: debugging-in-electron-and-nw
 tags:
 - native
