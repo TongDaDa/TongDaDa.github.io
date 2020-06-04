@@ -18,7 +18,7 @@ meta:
     content: 刘彤, Oliver Liu
   - name: language
     content: English
-featured: false
+featured: true
 ---
 
 前段时间在fork出来的一个node进程中，用shell执行一些命令，但是死活提示找不到路径，错误如下。
