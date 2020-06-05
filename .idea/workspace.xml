@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/native/relaunch_in_nw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/computer/Computer-Science-University.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/javascript/Promise常见的使用规则.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/javascript/Promise常见的使用规则.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/communication-between-browser-and-native.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/communication-between-browser-and-native.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/debugging-in-electron-and-nw.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/debugging-in-electron-and-nw.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/hot-update-cross-platform.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/hot-update-cross-platform.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/node/node各个环境变量详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/node/node各个环境变量详解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/node/peerDependencies.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/node/peerDependencies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/node/老掉牙的事件队列(平民版).md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/node/老掉牙的事件队列(平民版).md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,7 +58,7 @@
           <entry key="jpg" value="5" />
           <entry key="js" value="48" />
           <entry key="json" value="15" />
-          <entry key="md" value="173" />
+          <entry key="md" value="174" />
           <entry key="png" value="7" />
           <entry key="styl" value="21" />
           <entry key="vue" value="43" />
@@ -82,7 +74,7 @@
           <entry key="Image" value="14" />
           <entry key="JSON" value="15" />
           <entry key="JavaScript" value="48" />
-          <entry key="Markdown" value="173" />
+          <entry key="Markdown" value="174" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Stylus" value="21" />
           <entry key="Vue.js" value="43" />
@@ -97,7 +89,7 @@
           <entry key="html" value="35" />
           <entry key="js" value="534" />
           <entry key="json" value="96" />
-          <entry key="md" value="35958" />
+          <entry key="md" value="35990" />
           <entry key="styl" value="3" />
           <entry key="vue" value="448" />
           <entry key="yml" value="61" />
@@ -108,7 +100,7 @@
           <entry key="HTML" value="35" />
           <entry key="JSON" value="97" />
           <entry key="JavaScript" value="553" />
-          <entry key="Markdown" value="35938" />
+          <entry key="Markdown" value="35970" />
           <entry key="PLAIN_TEXT" value="30" />
           <entry key="Stylus" value="3" />
           <entry key="Vue.js" value="448" />
@@ -124,7 +116,19 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="230">
-                <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+                <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/content/_posts/node/peerDependencies.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="187">
+                <caret line="137" column="1" lean-forward="true" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -132,11 +136,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/content/_posts/node/peerDependencies.md">
+        <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/Computer-Science-University.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="380">
-                <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+              <first_editor relative-caret-position="195">
+                <caret line="139" column="37" selection-start-line="139" selection-start-column="3" selection-end-line="139" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -163,7 +167,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>DefaultGlobalLayout</find>
       <find>defaultBlogPluginOptions</find>
       <find>trackByNode</find>
       <find>page</find>
@@ -193,6 +196,7 @@
       <find>about</find>
       <find>rejectPersistentTask</find>
       <find>peer</find>
+      <find>Don't feel you aren't smart enough</find>
     </findStrings>
     <replaceStrings>
       <replace>jpeg</replace>
@@ -217,7 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/content/_posts/css/all-about-in-mobile-web.md" />
         <option value="$PROJECT_DIR$/content/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/../../work/client-sdk/jsSDK.js" />
         <option value="$PROJECT_DIR$/package.json" />
@@ -268,6 +271,7 @@
         <option value="$PROJECT_DIR$/dev/content/_posts/node/node各个环境变量详解.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/javascript/Promise常见的使用规则.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/node/peerDependencies.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/computer/Computer-Science-University.md" />
       </list>
     </option>
   </component>
@@ -286,8 +290,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="236" />
-    <option name="y" value="72" />
+    <option name="x" value="163" />
+    <option name="y" value="62" />
     <option name="width" value="1530" />
     <option name="height" value="828" />
   </component>
@@ -335,6 +339,14 @@
               <item name="dev" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="computer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
               <item name="javascript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -372,11 +384,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev/content/_posts/computer" />
       <recent name="$PROJECT_DIR$/dev/content/_posts/javascript" />
       <recent name="$PROJECT_DIR$/dev/content/_posts/node" />
       <recent name="$PROJECT_DIR$/dev/content/_posts/native" />
       <recent name="$PROJECT_DIR$/dev/content/_posts/language" />
-      <recent name="$PROJECT_DIR$/dev/content/_posts/computer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dev/content/_posts/translations" />
@@ -443,18 +455,18 @@
       <workItem from="1590378324553" duration="7348000" />
       <workItem from="1590485873182" duration="1338000" />
       <workItem from="1590658571020" duration="4858000" />
-      <workItem from="1590896098946" duration="11079000" />
+      <workItem from="1590896098946" duration="12244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287140000" />
+    <option name="totallyTimeSpent" value="288305000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="236" y="72" width="1530" height="828" extended-state="0" />
+    <frame x="163" y="62" width="1530" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15506959" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15506959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -466,7 +478,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2777778" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2777778" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -516,13 +528,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_me/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -907,7 +912,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="230">
-            <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
@@ -923,8 +928,18 @@
     <entry file="file://$PROJECT_DIR$/dev/content/_posts/node/peerDependencies.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="380">
-            <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
+          <first_editor relative-caret-position="187">
+            <caret line="137" column="1" lean-forward="true" selection-start-line="137" selection-start-column="1" selection-end-line="137" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/Computer-Science-University.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="139" column="37" selection-start-line="139" selection-start-column="3" selection-end-line="139" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
