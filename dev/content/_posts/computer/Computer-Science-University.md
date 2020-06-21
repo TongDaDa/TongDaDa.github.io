@@ -1,5 +1,5 @@
 ---
-date: '2020-06-05'
+date: '2023-06-05'
 slug: Computer-Science-University
 tags:
 - computer
@@ -11,9 +11,9 @@ meta:
   - name: title
     content: Computer-Science-University
   - name: description
-    content: Unicode，UTF编码，Computer-Science-University
+    content: Computer-Science-University
   - name: keywords
-    content: Unicode，Charset，Computer-Science-University
+    content: Computer-Science-University
   - name: author
     content: 刘彤, Oliver Liu
   - name: language
@@ -137,7 +137,7 @@ featured: true
 
 ---
 
-## Don't feel you aren't smart enough
+## [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)

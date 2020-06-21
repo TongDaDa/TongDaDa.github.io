@@ -1,12 +1,12 @@
 ---
 date: '2020-03-14'
-slug: practicing-lerna
+slug: practicing lerna
 tags:
 - javascript
 title: Detecting lerna's actions in a repo.
-author: Oliver
+author: Oliver Liu
 location: Beijing;
-image: https://i.picsum.photos/id/79/800/600.jpg
+image: https://cdn.pixabay.com/photo/2020/06/10/14/15/landscape-5282895_960_720.jpg
 meta:
   - name: title
     content: The perform of python's unicode problem on different computer
