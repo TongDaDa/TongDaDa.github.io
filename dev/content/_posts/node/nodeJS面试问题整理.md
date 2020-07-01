@@ -23,11 +23,30 @@ featured: true
 
 ## 粗略概括一下nodeJS的组成结构
 
+c++ -> Libuv -> V8 -> JS
 
 ---
 
 
+## nodejs 模块类型，有几种，他们之间有什么不同？
+
+1. 核心模块，在内建模块上层封装的js层接口。
+2. 内建模块，node内部原生的c++模块实现，这些模块调用了 Libuv 接口。
+3. 文件模块, 纯JS模块。
+
+核心模块在启动晋城时，node会把
+
+---
+
 ## 为什么require可以不用声明而直接引用？
+
+在Node中，每个模块都会被一个立即执行函数(IIFE)包裹着，在Node引入执行它们时，会传入一些参数
+
+```javascript
+(function(expoprts, require, module, __filename, __dirname) {                                                                              
+})  
+```
+
 
 
 ---
@@ -38,10 +57,6 @@ featured: true
 var module = { exports: {} };
 var exports = module.exports;
 ```
-
----
-
-## nodejs 模块类型，有几种，他们之间有什么不同？
 
 ---
 
