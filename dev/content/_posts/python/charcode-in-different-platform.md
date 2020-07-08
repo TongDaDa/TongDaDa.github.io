@@ -8,7 +8,7 @@ title: The perform of python's unicode problem on different computer
 description: The perform of python's unicode problem on different computer
 author: Oliver
 location: Beijing;
-image: https://i.picsum.photos/id/79/800/600.jpg
+image: https://cdn.pixabay.com/photo/2020/07/05/12/53/rainbow-5372892_960_720.jpg
 meta:
   - name: title
     content: The perform of python's unicode problem on different computer

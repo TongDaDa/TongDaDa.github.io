@@ -6,7 +6,7 @@ tags:
 title:  深入贯彻闭包思想，全面理解JS闭包形成过程
 author: Oliver
 location: Beijing;
-image: https://cdn.pixabay.com/photo/2020/03/03/20/31/laguna-4899802_960_720.jpg
+image: https://cdn.pixabay.com/photo/2020/07/05/10/40/landscape-5372526_960_720.jpg
 meta:
   - name: title
     content: 深入贯彻闭包思想，全面理解JS闭包形成过程
