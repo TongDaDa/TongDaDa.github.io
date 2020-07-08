@@ -4,6 +4,7 @@
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/content/_posts/computer/Action at a distance.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/computer/Action at a distance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/diary/“痛并快乐着”于白岩松先生的《白说》.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/diary/“痛并快乐着”于白岩松先生的《白说》.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/content/_posts/diary/属于你的那份成长曲线图.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/diary/属于你的那份成长曲线图.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/content/_posts/javascript/the-closure-in-javascript.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/javascript/the-closure-in-javascript.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/浏览器的多进程架构.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/浏览器的多进程架构.md" afterDir="false" />
@@ -65,7 +66,7 @@
           <entry key="jpg" value="5" />
           <entry key="js" value="48" />
           <entry key="json" value="15" />
-          <entry key="md" value="208" />
+          <entry key="md" value="209" />
           <entry key="png" value="34" />
           <entry key="styl" value="21" />
           <entry key="vue" value="43" />
@@ -81,7 +82,7 @@
           <entry key="Image" value="46" />
           <entry key="JSON" value="15" />
           <entry key="JavaScript" value="48" />
-          <entry key="Markdown" value="208" />
+          <entry key="Markdown" value="209" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Stylus" value="21" />
           <entry key="Vue.js" value="43" />
@@ -96,7 +97,7 @@
           <entry key="html" value="35" />
           <entry key="js" value="534" />
           <entry key="json" value="97" />
-          <entry key="md" value="62811" />
+          <entry key="md" value="62812" />
           <entry key="styl" value="3" />
           <entry key="vue" value="448" />
           <entry key="yml" value="61" />
@@ -107,7 +108,7 @@
           <entry key="HTML" value="35" />
           <entry key="JSON" value="98" />
           <entry key="JavaScript" value="560" />
-          <entry key="Markdown" value="62784" />
+          <entry key="Markdown" value="62785" />
           <entry key="PLAIN_TEXT" value="30" />
           <entry key="Stylus" value="3" />
           <entry key="Vue.js" value="448" />
@@ -118,48 +119,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/content/_posts/python/charcode-in-different-platform.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="184">
-                <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/the-closure-in-javascript.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="161">
-                <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/content/_posts/diary/属于你的那份成长曲线图.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="115">
-                <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/Action at a distance.md">
+        <entry file="file://$PROJECT_DIR$/dev/content/_posts/diary/“痛并快乐着”于白岩松先生的《白说》.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="310">
-                <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+              <first_editor relative-caret-position="207">
+                <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -235,7 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/about_me/index.html" />
         <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-in-font.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/native/communication-with-browser-in-nw.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/css/all-about-in-mobile-web.md" />
@@ -286,6 +250,7 @@
         <option value="$PROJECT_DIR$/dev/content/_posts/javascript/the-closure-in-javascript.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/diary/属于你的那份成长曲线图.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/computer/Action at a distance.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/diary/“痛并快乐着”于白岩松先生的《白说》.md" />
       </list>
     </option>
   </component>
@@ -304,10 +269,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
-    <option name="y" value="35" />
-    <option name="width" value="1440" />
-    <option name="height" value="825" />
+    <option name="x" value="386" />
+    <option name="y" value="115" />
+    <option name="width" value="1221" />
+    <option name="height" value="785" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -340,6 +305,29 @@
               <item name="dev" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="diary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="economy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -436,12 +424,12 @@
       <workItem from="1592390209371" duration="18216000" />
       <workItem from="1592878865947" duration="77897000" />
       <workItem from="1593502300203" duration="11660000" />
-      <workItem from="1594182239301" duration="870000" />
+      <workItem from="1594182239301" duration="1167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="427922000" />
+    <option name="totallyTimeSpent" value="428219000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -453,10 +441,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="35" width="1440" height="825" extended-state="0" />
+    <frame x="386" y="115" width="1221" height="785" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14376321" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -468,7 +456,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32962447" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28033474" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29689807" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -556,16 +544,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/javascript/优质代码从格式和规则开始.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="101">
-            <caret line="47" selection-start-line="47" selection-end-line="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/content/_posts/java/jwt的使用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -872,11 +850,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/python/charcode-in-different-platform.md">
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/Action at a distance.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <first_editor relative-caret-position="310">
+            <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/diary/属于你的那份成长曲线图.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="203">
+            <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -892,21 +880,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/diary/属于你的那份成长曲线图.md">
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/python/charcode-in-different-platform.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/computer/Action at a distance.md">
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/diary/“痛并快乐着”于白岩松先生的《白说》.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="310">
-            <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
