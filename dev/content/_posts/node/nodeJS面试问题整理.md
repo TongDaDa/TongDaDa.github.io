@@ -34,7 +34,7 @@ c++ -> Libuv -> V8 -> JS
 2. 内建模块，node内部原生的c++模块实现，这些模块调用了 Libuv 接口。
 3. 文件模块, 纯JS模块。
 
-核心模块在启动晋城时，node会把
+核心模块在启动进程时, 会被引入到内存中，以提高之后的调用效率。
 
 ---
 
@@ -43,11 +43,13 @@ c++ -> Libuv -> V8 -> JS
 在Node中，每个模块都会被一个立即执行函数(IIFE)包裹着，在Node引入执行它们时，会传入一些参数
 
 ```javascript
-(function(expoprts, require, module, __filename, __dirname) {                                                                              
-})  
+(function(exports, require, module, __filename, __dirname) {                                                                         
+})()
 ```
 
-
+所以，在引入一个`文件模块`时，会使用一个IIFE初始化这个模块的代码，通过它来带入一些常用的而不用声明的变量。
+这样做还有一个用处是作用域隔离，不会产生命名冲突之类的问题。注意，在global中注入这些变量不能完成相同的
+事情，因为以上每个属性对其调用的模块都有特殊逻辑，定义在global中属于常量，
 
 ---
 
@@ -117,3 +119,8 @@ var exports = module.exports;
 ## process.nextTick 的作用?
 
 ---
+
+## 介绍一下你所知道几种 IO 模型
+
+---
+
