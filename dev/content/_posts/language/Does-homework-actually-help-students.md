@@ -18,7 +18,7 @@ meta:
     content: 刘彤, Oliver Liu
   - name: language
     content: English
-featured: false
+featured: true
 ---
 
 <h2 class="text-center">

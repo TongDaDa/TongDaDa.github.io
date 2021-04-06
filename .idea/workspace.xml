@@ -2,128 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/computer/IEEE 754 存储规则.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/language/Does-homework-actually-help-students.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/native/Mac_big_sur_闪退现象.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/css-units.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/dpr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/pixel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/retina.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/scan.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/node/nodeJS面试问题整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/node/nodeJS面试问题整理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/css/all-about-in-mobile-web.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/css/刨析缓动函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/css/刨析缓动函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/diary/《专业和业余的区别》于吴军老师的第280封硅谷来信.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/diary/《专业和业余的区别》于吴军老师的第280封硅谷来信.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/language/Does-homework-actually-help-students.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/language/Does-homework-actually-help-students.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/Mac_big_sur_闪退现象.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/Mac_big_sur_闪退现象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-101356931">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="40" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.130" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.1696" value="1" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="5" />
-          <entry key="project.open.time.20" value="3" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.23" value="2" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.30" value="2" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.49" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.50" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.63" value="1" />
-          <entry key="project.open.time.69" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="59" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="AboutMe" value="1" />
-          <entry key="editorconfig" value="1" />
-          <entry key="gitattributes" value="2" />
-          <entry key="gitignore" value="7" />
-          <entry key="html" value="10" />
-          <entry key="jpeg" value="7" />
-          <entry key="jpg" value="5" />
-          <entry key="js" value="48" />
-          <entry key="json" value="15" />
-          <entry key="md" value="223" />
-          <entry key="png" value="34" />
-          <entry key="styl" value="21" />
-          <entry key="vue" value="43" />
-          <entry key="xml" value="1" />
-          <entry key="yml" value="8" />
-          <entry key="古希腊神话" value="1" />
-          <entry key="翻译理论" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="10" />
-          <entry key="Image" value="46" />
-          <entry key="JSON" value="15" />
-          <entry key="JavaScript" value="48" />
-          <entry key="Markdown" value="223" />
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Stylus" value="21" />
-          <entry key="Vue.js" value="43" />
-          <entry key="XML" value="1" />
-          <entry key="YAML" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="gitattributes" value="1" />
-          <entry key="gitignore" value="29" />
-          <entry key="html" value="35" />
-          <entry key="js" value="534" />
-          <entry key="json" value="97" />
-          <entry key="md" value="63521" />
-          <entry key="styl" value="3" />
-          <entry key="vue" value="448" />
-          <entry key="yml" value="61" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="35" />
-          <entry key="JSON" value="98" />
-          <entry key="JavaScript" value="560" />
-          <entry key="Markdown" value="63494" />
-          <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Stylus" value="3" />
-          <entry key="Vue.js" value="448" />
-          <entry key="YAML" value="61" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -215,7 +111,6 @@
         <option value="$PROJECT_DIR$/dev/index.js" />
         <option value="$PROJECT_DIR$/dev/content/_posts/language/马克吐温.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/node/node环境变量.md" />
-        <option value="$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/native/debugging-in-electron-and-nw.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/native/communication-between-browser-and-native.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/node/老掉牙的事件队列(平民版).md" />
@@ -240,9 +135,10 @@
         <option value="$PROJECT_DIR$/dev/content/_posts/computer/Action at a distance.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/diary/“痛并快乐着”于白岩松先生的《白说》.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/node/nodeJS面试问题整理.md" />
-        <option value="$PROJECT_DIR$/dev/content/_posts/native/Mac_big_sur_闪退现象.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/language/ttt.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/native/Mac_big_sur_闪退现象.md" />
         <option value="$PROJECT_DIR$/dev/content/_posts/language/Does-homework-actually-help-students.md" />
+        <option value="$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md" />
       </list>
     </option>
   </component>
@@ -261,11 +157,12 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="468" />
-    <option name="y" value="26" />
-    <option name="width" value="1033" />
-    <option name="height" value="786" />
+    <option name="x" value="268" />
+    <option name="y" value="123" />
+    <option name="width" value="1312" />
+    <option name="height" value="753" />
   </component>
+  <component name="ProjectId" id="1o8vqcISqbgbp17F2yq2cWsQHzJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -290,6 +187,21 @@
               <item name="dev" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TongDaDa.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TongDaDa.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="netwrok" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -297,18 +209,36 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/liutong/Desktop/projects/project_myself/TongDaDa.github.io/dev/content/_posts/javascript/Promise的十个使用禁令.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dev/content/_posts/mobile" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev/content/_posts/mobile" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/rendering" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/native" />
+      <recent name="$PROJECT_DIR$/dev/content/_posts/computer" />
+      <recent name="$PROJECT_DIR$/dev/assets/chromium_principle" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dev/content/_posts/translations" />
       <recent name="$PROJECT_DIR$/content/_projects/frontEnd" />
@@ -316,26 +246,8 @@
       <recent name="$PROJECT_DIR$/assets/picture_myself" />
       <recent name="$PROJECT_DIR$/example/_posts/python" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dev/content/_posts/native" />
-      <recent name="$PROJECT_DIR$/dev/content/_posts/computer" />
-      <recent name="$PROJECT_DIR$/dev/assets/chromium_principle" />
-      <recent name="$PROJECT_DIR$/dev/content/_posts/netwrok" />
-      <recent name="$PROJECT_DIR$/dev/content/_posts/node" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -403,12 +315,16 @@
       <workItem from="1606789452430" duration="1168000" />
       <workItem from="1607310932787" duration="1113000" />
       <workItem from="1607316431209" duration="1088000" />
-      <workItem from="1607509904730" duration="3084000" />
+      <workItem from="1607509904730" duration="11489000" />
+      <workItem from="1612681229601" duration="2451000" />
+      <workItem from="1614738700595" duration="599000" />
+      <workItem from="1615281631122" duration="588000" />
+      <workItem from="1615794752761" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="450230000" />
+    <option name="totallyTimeSpent" value="458635000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -420,10 +336,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="468" y="26" width="1033" height="786" extended-state="0" />
+    <frame x="268" y="123" width="1312" height="753" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26581028" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2083656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -435,7 +351,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32962447" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27876106" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.25736433" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -462,89 +378,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/dmgLicense.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/licenseButtons.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/src/resolveForHardenedRunTime.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/dmgUtil.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/licenseDefaultButtons.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/resolveForHardenedRunTime.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/src/resolveForHardenedRunTime.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/notarization/helpers.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/notarization/index.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/notarization/spawn.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/src/resolveForHardenedRunTime.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/notarization/helpers.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/src/utils/timerRegulator.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/__tests__/HotUpdater.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/src/utils/timerRegulator.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/__tests__/HotUpdater.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/src/notarization.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/__tests__/notarize.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/src/resolveForHardenedRunTime.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/__tests__/notarize.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/src/notarization.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/src/utils/timerRegulator.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/node_modules/dmg-builder/src/notarization/index.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/src/utils/timerRegulator.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/node_modules/dmg-builder/src/notarization/spawn.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/node_modules/dmg-builder/src/notarization/helpers.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/__tests__/HotUpdater.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/__tests__/HotUpdater.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/src/notarization.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/src/resolveForHardenedRunTime.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/race-client/node_modules/builder/src/utils/timerRegulator.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/src/notarization.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/race-client/node_modules/builder/src/utils/timerRegulator.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/__tests__/HotUpdater.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/__tests__/HotUpdater.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/__tests__/notarize.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/src/notarization.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/__tests__/notarize.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/src/resolveForHardenedRunTime.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/src/notarization.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/src/utils/timerRegulator.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/node_modules/dmg-builder/src/dmgUtil.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/src/utils/timerRegulator.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/node_modules/dmg-builder/src/dmg.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/node_modules/dmg-builder/src/resolveForHardenedRunTime.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/__tests__/notarize.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/src/resolveForHardenedRunTime.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/node_modules/dmg-builder/src/dmgLicense.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/python-crust/node_modules/builder/__tests__/notarize.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/node_modules/dmg-builder/src/licenseButtons.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/node_modules/dmg-builder/src/licenseDefaultButtons.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/__tests__/HotUpdater.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/__tests__/HotUpdater.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/src/notarization.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/src/resolveForHardenedRunTime.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/client-pro/node_modules/builder/src/utils/timerRegulator.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/dmgUtil.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/client-pro/node_modules/builder/src/utils/timerRegulator.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/dmg.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/resolveForHardenedRunTime.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/src/utils/timerRegulator.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/dmgLicense.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/scratch-crust/node_modules/builder/src/utils/timerRegulator.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/licenseButtons.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/licenseDefaultButtons.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/__tests__/notarize.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/notarization/index.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/node_modules/builder/__tests__/notarize.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/notarization/spawn.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/race-client/node_modules/builder/__tests__/notarize.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/race-client/node_modules/builder/__tests__/notarize.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/client-pro/node_modules/builder/__tests__/notarize.js.map" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/client-pro/node_modules/builder/__tests__/notarize.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/dmg-builder/src/dmg.js" />
-        <option value="$PROJECT_DIR$/../../work/nw-builder/packages/builder/src/notarization.js" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dev/assets/javascript/lerna_1.png">
@@ -584,61 +418,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/debugging-in-electron-and-nw.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/communication-between-browser-and-native.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/hot-update-cross-platform.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="428">
-            <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/content/_posts/node/老掉牙的事件队列(平民版).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="138">
             <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="529">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/relaunch_in_nw.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1311">
-            <caret line="57" column="2" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -820,16 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/浏览器的多进程架构.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1844">
-            <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/content/_posts/node/nodeJS面试问题整理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -867,16 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/netwrok/关于我遇到的一个DNS问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-3403">
-            <caret line="28" selection-start-line="28" selection-end-line="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/writing-flag.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -897,21 +661,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/Mac_big_sur_闪退现象.md">
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/Does-homework-actually-help-students.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="435">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="437">
+            <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/content/_posts/language/Does-homework-actually-help-students.md">
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/Mac_big_sur_闪退现象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="397">
+            <caret line="22" selection-start-line="22" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/relaunch_in_nw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-100">
-            <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <first_editor relative-caret-position="-2599">
+            <caret line="57" selection-start-line="57" selection-end-line="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/浏览器的多进程架构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1266">
+            <caret line="18" selection-start-line="18" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/hot-update-cross-platform.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="322">
+            <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/debugging-in-electron-and-nw.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-184">
+            <caret line="1" selection-start-line="1" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/communication-between-browser-and-native.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-156">
+            <caret line="8" selection-start-line="8" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="98">
+            <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/content/_posts/netwrok/关于我遇到的一个DNS问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="49">
+            <caret line="147" selection-start-line="147" selection-end-line="148" />
           </first_editor>
           <second_editor />
         </state>
