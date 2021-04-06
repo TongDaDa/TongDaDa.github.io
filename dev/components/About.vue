@@ -10,6 +10,7 @@
           <img
             :src="$withBase($themeConfig.about.image)"
             :alt="$themeConfig.about.fullName"
+            style="transform: rotate(42deg)"
             width="160px"
           />
         </div>

@@ -32,7 +32,7 @@ module.exports = {
     about: {
       fullName: "Oliver",
       bio: "The passionate coding was my pursuit for a long time and I love the open source culture",
-      image: "https://s.gravatar.com/avatar/e1f9f7c451d11f5d8bf9508f7a22f36c?size=496&default=retro"
+      image: "https://tvax3.sinaimg.cn/crop.0.0.996.996.180/006geSualy8fqrbnwnjjij30ro0roae2.jpg?KID=imgbed,tva&Expires=1617733853&ssig=%2Bo4ZJA27Fb"
     },
     footer: {
       contact: [

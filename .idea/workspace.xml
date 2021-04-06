@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/css-units.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/dpr.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/pixel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/retina.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/content/_posts/mobile/scan.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/css/all-about-in-mobile-web.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/css/刨析缓动函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/css/刨析缓动函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/diary/《专业和业余的区别》于吴军老师的第280封硅谷来信.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/diary/《专业和业余的区别》于吴军老师的第280封硅谷来信.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/language/Does-homework-actually-help-students.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/language/Does-homework-actually-help-students.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/Mac_big_sur_闪退现象.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/Mac_big_sur_闪退现象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/nsis_with_electron.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/components/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/.vuepress/config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +74,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -217,10 +210,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/liutong/Desktop/projects/project_myself/TongDaDa.github.io/dev/content/_posts/javascript/Promise的十个使用禁令.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dev/content/_posts/mobile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -320,6 +315,8 @@
       <workItem from="1614738700595" duration="599000" />
       <workItem from="1615281631122" duration="588000" />
       <workItem from="1615794752761" duration="23000" />
+      <workItem from="1617687377757" duration="726000" />
+      <workItem from="1617722707283" duration="744000" />
     </task>
     <servers />
   </component>
@@ -379,6 +376,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dev/assets/javascript/lerna_1.png">
