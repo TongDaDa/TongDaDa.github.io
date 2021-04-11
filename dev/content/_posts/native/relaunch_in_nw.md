@@ -6,7 +6,7 @@ tags:
 title: Relaunch application in nwjs
 author: Oliver Liu
 location: Beijing;
-image: https://cdn.pixabay.com/photo/2020/05/20/12/43/landscape-5196367__340.jpg
+image: https://cdn.pixabay.com/photo/2021/01/21/09/11/mountains-5936682_960_720.jpg
 meta:
   - name: title
     content: Relaunch application in nwjs

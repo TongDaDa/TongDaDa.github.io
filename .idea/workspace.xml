@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dev/assets/click_effects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/components/About.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/content/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/java/jwt的使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/java/jwt的使用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/relaunch_in_nw.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/relaunch_in_nw.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/global-components/NavLink.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/global-components/NavLink.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,8 +221,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -317,6 +324,8 @@
       <workItem from="1615794752761" duration="23000" />
       <workItem from="1617687377757" duration="726000" />
       <workItem from="1617722707283" duration="744000" />
+      <workItem from="1617862377178" duration="592000" />
+      <workItem from="1618121702296" duration="3029000" />
     </task>
     <servers />
   </component>
@@ -387,6 +396,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dev/assets/javascript/lerna_1.png">

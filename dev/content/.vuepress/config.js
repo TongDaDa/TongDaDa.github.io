@@ -3,6 +3,7 @@ module.exports = {
   description: "一个充满理想并付诸于行动中的码农小白，喜欢遨游在计算机世界里，励志于成为一名赚很多钱的程序员",
   theme: require.resolve("../../"),
   summaryLength: 500,
+  scripts: ['click_effects.js'],
   themeConfig: {
     summary: true,
     nav: [

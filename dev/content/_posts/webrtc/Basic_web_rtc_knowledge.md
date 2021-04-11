@@ -23,4 +23,4 @@ meta:
 featured: true
 ---
 
-待贴！
+Waiting for writing.
