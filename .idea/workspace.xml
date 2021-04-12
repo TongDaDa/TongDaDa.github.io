@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dev/assets/click_effects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/java/jwt的使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/java/jwt的使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/native/relaunch_in_nw.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/native/relaunch_in_nw.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/content/_posts/webrtc/Basic_web_rtc_knowledge.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/global-components/NavLink.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dev/global-components/NavLink.vue" afterDir="false" />
-    </list>
+    <list default="true" id="527e460d-3edb-4570-b078-7773815290a8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -326,6 +318,7 @@
       <workItem from="1617722707283" duration="744000" />
       <workItem from="1617862377178" duration="592000" />
       <workItem from="1618121702296" duration="3029000" />
+      <workItem from="1618194126394" duration="597000" />
     </task>
     <servers />
   </component>
