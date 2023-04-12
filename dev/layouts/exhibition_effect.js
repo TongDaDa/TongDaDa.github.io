@@ -140,6 +140,7 @@ class ExhibitionEffect {
 
   // add elements to arrays to be drawn
   initBurst () {
+    this.handleContainerVisible(true);
     for (let i = 0; i < confettiCount; i++) {
       this.confetti.push(new Confetto({
         target: this.target,
@@ -156,6 +157,10 @@ class ExhibitionEffect {
     }
   }
 
+  handleContainerVisible(visible) {
+    this.canvas.style.display = visible ? 'block' : 'none';
+  }
+
   // draws the elements on the canvas
   render() {
     const ctx = this.ctx;
@@ -164,6 +169,14 @@ class ExhibitionEffect {
     const sequins = this.sequins;
     const target = this.target;
     ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    // hide the container;
+    if (confetti.length === 0 && sequins.length === 0) {
+      this.handleContainerVisible(false);
+      window.requestAnimationFrame(this.render);
+      return;
+    }
+
     confetti.forEach((confetto, index) => {
       let width = (confetto.dimensions.x * confetto.scale.x);
       let height = (confetto.dimensions.y * confetto.scale.y);
