@@ -12,6 +12,7 @@ jobs:
           node-version: '14'
       - name: build project to local
         run:
+          cd ./dev
           echo will build the project
           npm i
           npm run content:build
