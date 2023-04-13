@@ -57,6 +57,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: blog_dist
+          path: ./dist
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
