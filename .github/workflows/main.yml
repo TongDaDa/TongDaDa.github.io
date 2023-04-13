@@ -10,7 +10,7 @@ jobs:
       - name: target nodejs env
         uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: '12'
 
       - name: install
         run:
