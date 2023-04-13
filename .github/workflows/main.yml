@@ -11,18 +11,14 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '14'
-          
-      - name: cd ./dev
-        run:
-          cd ./dev
 
       - name: install
         run:
-          npm i
+          cd ./dev && npm i
 
       - name: build
         run:
-          npm run content:build
+          cd ./dev && npm run content:build
           
       - name: done  
         run:
