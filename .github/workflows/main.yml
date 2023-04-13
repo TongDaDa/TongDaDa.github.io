@@ -6,6 +6,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: enter dev workspace
+        run:
+          cd ./dev
       - name: target nodejs env
         uses: actions/setup-node@v3
         with:
@@ -13,9 +16,7 @@ jobs:
           cache: 'npm'
       - name: build project to local
         run:
-          echo will build the project.
-          ls ./docs/
-          cd ./dev
+          echo will build the project
           npm i
           npm run content:build
           echo done.
