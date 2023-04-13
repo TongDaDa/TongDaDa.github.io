@@ -13,7 +13,7 @@ jobs:
           
       - name: build project to local
         run:
-          cd ./dev
+          ls
 
       - name: hah
         run:  
