@@ -6,14 +6,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: enter dev workspace
-        run:
-          ls
       - name: target nodejs env
         uses: actions/setup-node@v3
         with:
           node-version: '14'
-          cache: 'npm'
       - name: build project to local
         run:
           echo will build the project
