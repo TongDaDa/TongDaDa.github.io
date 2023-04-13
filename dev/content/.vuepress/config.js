@@ -33,7 +33,7 @@ module.exports = {
     about: {
       fullName: "Oliver",
       bio: "The passionate coding was my pursuit for a long time and I love the open source culture",
-      image: "https://tvax3.sinaimg.cn/crop.0.0.996.996.180/006geSualy8fqrbnwnjjij30ro0roae2.jpg?KID=imgbed,tva&Expires=1617733853&ssig=%2Bo4ZJA27Fb"
+      image: "https://avatars.githubusercontent.com/u/23241188?v=4"
     },
     footer: {
       contact: [
