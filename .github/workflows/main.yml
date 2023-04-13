@@ -9,7 +9,6 @@ jobs:
       - name: enter dev workspace
         run:
           ls
-          cd ./dev
       - name: target nodejs env
         uses: actions/setup-node@v3
         with:
