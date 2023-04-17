@@ -40,12 +40,12 @@ module.exports = (themeConfig, ctx) => {
         }
       },
       {
-        id: "aboutme",
+        id: "myself",
         dirname: "_aboutme",
         path: "/about_me/",
         layout: "AboutMe",
         itemLayout: "Project",
-        frontmatter: { title: "AboutMe" },
+        frontmatter: { title: "关于我" },
         itemPermalink: "/projects/:slug",
         pagination: {
           lengthPerPage: 10
