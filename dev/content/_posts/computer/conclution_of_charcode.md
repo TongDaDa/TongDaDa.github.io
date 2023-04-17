@@ -180,17 +180,27 @@ String.fromCodePoint(parseInt("11000100", 2)); // "Ä" (德语字母)
 
 <br />
 
-** Waiting for writing. **
-
 ### Utf-*系列
+
 `UTF(Unicode Transformation Format)`系列编码直译为Unicode转换格式。它们基于Unicode定义了一些自己的规则。
 
 <br />
 
 ### UTF-8
+
 Utf-8与ASCII完全兼容，它的定义规则是这样的，贴一张图。
 ![clipboard.png](../../../assets/computer/UtfCharsetList.png)
+
+UTF8是动态编码。也是目前互联网中应用最广泛的编码，因为体积小，兼容性高的原因。通过上图可以看到，它用一个字节完全兼容了ASCII码，而对一些复杂的unicode，使用了更多的节表达。可以理解为，越常用的
+Unicode 越靠前，所以字节数越少，从简体中文开始就两个字节，繁体字或者更复杂的中文可以到3+个字节。
+
+动态编码体积是小了，但是搜索效率不高，因为相比于下面的这些定宽编码来说，搜索引擎需要考虑字符长度和编码算法中的关系，才能匹配出目标字符。
+
+
+
 ### UTF-16
+
+
 ### UTF-32
 ### GBK
 ### UCS
@@ -199,7 +209,6 @@ Utf-8与ASCII完全兼容，它的定义规则是这样的，贴一张图。
 ## GB2312 字符集
 
 ---
-
 
 ## 加密编码
 加密编码和上面说的普通编码不同，前者为了保护数据，后者为了显示。对于非对称加密，加密有 SHA, SHA-1, MD5, HEX, 我通常叫这种加密方式为`加盐`。
@@ -235,10 +244,3 @@ d > s; //true
 **怎么才能知道一个字符需要charCode几次才是一个字符？**。
 
 在JS中，String.prototype.charCodeAt为捕获指定下标字符的codePoint, 但是
-
-## 在 Python 中的问题
-```pyton
-def uu() {
-
-}
-```

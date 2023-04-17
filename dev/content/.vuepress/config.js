@@ -1,6 +1,6 @@
 module.exports = {
   title: "Oliver Liu",
-  description: "一个充满理想并付诸于行动中的码农小白，喜欢遨游在计算机世界里，励志于成为一名多财多亿的人",
+  description: "一个充满理想并付诸于行动中的码农，喜欢遨游在计算机世界里，励志于成为一名多财多亿的人",
   theme: require.resolve("../../"),
   summaryLength: 500,
   scripts: ['click_effects.js'],
@@ -33,7 +33,7 @@ module.exports = {
     about: {
       fullName: "Oliver",
       bio: "The passionate coding was my pursuit for a long time and I love the open source culture",
-      image: "https://tvax3.sinaimg.cn/crop.0.0.996.996.180/006geSualy8fqrbnwnjjij30ro0roae2.jpg?KID=imgbed,tva&Expires=1617733853&ssig=%2Bo4ZJA27Fb"
+      image: "https://avatars.githubusercontent.com/u/23241188?v=4"
     },
     footer: {
       contact: [

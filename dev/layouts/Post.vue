@@ -1,5 +1,6 @@
 <template>
   <div id="vuperess-theme-blog__post-layout">
+    <canvas id="exhibition_canvas"></canvas>
     <main class="vuepress-blog-theme-content">
       <el-card
         body-style="padding: 0"
@@ -73,13 +74,19 @@
 import Toc from "@theme/components/Toc.vue";
 import PostInfo from "@theme/components/PostInfo.vue";
 import FeaturedPosts from "@theme/components/FeaturedPosts.vue";
-
+import ExhibitionEffect from "./exhibition_effect";
 
 export default {
   components: {
     Toc,
     PostInfo,
     FeaturedPosts,
+  },
+  mounted() {
+    const exhibitionEffect = new ExhibitionEffect();
+    setTimeout(() => {
+      exhibitionEffect.initBurst();
+    }, 800)
   }
 };
 </script>
@@ -103,6 +110,14 @@ export default {
 
 .disqus-comments {
   margin-top: 0rem;
+}
+
+#exhibition_canvas {
+  position fixed;
+  top 100px;
+  width: 100%;
+  height: 100%;
+  z-index 100;
 }
 
 </style>
