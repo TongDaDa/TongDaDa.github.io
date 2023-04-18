@@ -1,5 +1,5 @@
 ---
-date: '2020-05-01'
+date: '2021-08-01'
 slug: conclusion_of_charcode
 tags:
 - computer

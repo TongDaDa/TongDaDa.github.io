@@ -18,7 +18,7 @@ meta:
     content: 刘彤
   - name: language
     content: English
-featured: true
+featured: false
 ---
 
 > 写这篇文章之前，我对闭包的概念及原理模糊不清，一直以来都是以通俗的`外层函数包裹内层....`来欺骗自己。并没有说这种说法的对与错，我只是不想拥有从众心理或者也可以说如果我们说出更好更低层的东西，逼格会提升好几个档次。。。

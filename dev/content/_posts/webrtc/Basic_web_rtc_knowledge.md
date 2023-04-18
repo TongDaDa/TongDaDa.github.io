@@ -20,7 +20,7 @@ meta:
     content: Oliver-Liu, Tongdada, LiuTong, 刘彤
   - name: language
     content: Chinese
-featured: true
+featured: false
 ---
 
 Waiting for writing.
