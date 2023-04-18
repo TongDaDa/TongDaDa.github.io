@@ -18,7 +18,7 @@ meta:
     content: 刘彤, Oliver Liu
   - name: language
     content: English
-featured: true
+featured: false
 ---
 
 ## npm 中的 dependencies 安装规则

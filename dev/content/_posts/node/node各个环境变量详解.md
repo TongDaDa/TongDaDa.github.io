@@ -18,7 +18,7 @@ meta:
     content: 刘彤, Oliver Liu
   - name: language
     content: English
-featured: true
+featured: false
 ---
 
 前段时间在node中fork出来的一个子进程中，此进程中还会spawn出来一些命令，但是死活提示找不到路径，错误如下。

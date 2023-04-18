@@ -1,5 +1,5 @@
 ---
-date: '2023-03-15'
+date: '2022-08-15'
 slug: conclusion_of_charcode
 tags:
 - computer

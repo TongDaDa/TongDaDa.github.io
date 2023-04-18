@@ -18,7 +18,7 @@ meta:
     content: Oliver Liu
   - name: language
     content: Chinese
-featured: true
+featured: false
 ---
 
 Waiting for writing.
