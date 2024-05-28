@@ -50,12 +50,41 @@ import PostsList from "@theme/components/PostsList.vue";
 import About from "@theme/components/About.vue";
 import FeaturedPosts from "@theme/components/FeaturedPosts";
 import { Pagination, SimplePagination } from '@vuepress/plugin-blog/lib/client/components'
+// import { createApi } from 'unsplash-js';
 
 export default {
   components: { PostsList, Pagination, FeaturedPosts, About },
   created () {
     this.paginationComponent = this.getPaginationComponent()
   },
+  mounted() {
+    // const unsplash = createApi({
+    //   accessKey: 'WOJPvx7_24kOgjn16FQy1rz-xV8_5KrhBR5m-yRXzaE',
+    //   fetch: fetch,
+    // });
+    // unsplash.photos.getRandom({
+    //   w: 1200,
+    //   h: 800,
+    //   featured: true,
+    //   count: 1
+    // }).then(result => {
+    //   console.log(result);
+    // })
+    // fetch("https://unsplash.com/oauth/authorize", {
+    //   header: {
+    //     client_id: "WOJPvx7_24kOgjn16FQy1rz-xV8_5KrhBR5m-yRXzaE",
+    //     response_type: "",
+    //     scope: "public read_photos"
+    //   }
+    // })
+    // .then(res => res.json())
+    // .then(data => {
+    //   return data.token;
+    // })
+  },
+  // data: {
+  //   bgImgUrl: ""
+  // },
   computed: {
     pages () {
       return this.$pagination.pages;

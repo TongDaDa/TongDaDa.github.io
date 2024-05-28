@@ -11,7 +11,7 @@ module.exports = (themeConfig, ctx) => {
   });
 
   themeConfig.heroImage =
-    themeConfig.heroImage || "https://source.unsplash.com/featured/1200x800";
+    themeConfig.heroImage || "https://picsum.photos/1200/800";
 
   const defaultBlogPluginOptions = {
     directories: [
