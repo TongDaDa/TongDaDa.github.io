@@ -1,6 +1,6 @@
 module.exports = {
   title: "Oliver Liu",
-  description: "一个充满理想并付诸于行动中的码农，喜欢遨游在计算机世界里，励志于成为一名多财多亿的人",
+  description: "一个充满理想并付诸于行动中的码农，喜欢遨游在计算机世界里，励志于成为一名多才多艺的人",
   theme: require.resolve("../../"),
   summaryLength: 500,
   scripts: ['click_effects.js'],

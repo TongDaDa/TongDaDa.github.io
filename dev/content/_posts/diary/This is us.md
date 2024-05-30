@@ -25,7 +25,7 @@ featured: false
 
 --- 
 
-This is an impression of the view for the series of “this is us”, and I have watched three chapters untile today.
+This is an impression of the view for the series of “this is us”, and I have watched three chapters until today.
 
 Firstly, I was very inspired by this show, totally it described an unoriginal and complicated family that how to live together
  and lots of kind of difficulty even these children have grown up. The family fills up with warm and the hot heart,  everyone 
@@ -40,8 +40,14 @@ the mom, and her husband named Jack, they do not think the baby is a replacement
 
 This is great series i watched, and I will write a impression of view every week for the show as below.
 
-## Content
+
+
+### First week
 
 --- 
 
-### First week
+Family, love, loss and many other emotional factors have permeat all the TV-show. All of these connections could bind us together. I'm drawn to the
+show's hopeful and uplifting feelings that celebrates the power of love and human suffering in the face of life's challenges.
+
+
+

@@ -47,5 +47,3 @@ it is open. For example, the series of ASCII, ISO/IEC character set all is close
 - The system default coding, it could be affected by the local language of the computer.
 
 ## What differences between Python2.* and python3.*?
-
-## 
