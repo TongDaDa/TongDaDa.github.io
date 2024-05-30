@@ -18,7 +18,7 @@ meta:
     content: 刘彤, Oliver Liu.
   - name: language
     content: Chinese
-featured: true
+featured: false
 ---
 
 ## resolve(thenable) 与 resolve('non-thenable-object')?

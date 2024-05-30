@@ -18,7 +18,7 @@ meta:
     content: 刘彤, Oliver Liu
   - name: language
     content: Chinese
-featured: true
+featured: false
 ---
 
 ## 粗略概括一下nodeJS的组成结构
