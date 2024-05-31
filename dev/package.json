@@ -35,6 +35,7 @@
     "flexsearch": "^0.6.32",
     "remove-markdown": "^0.3.0",
     "unsplash-js": "^7.0.19",
+    "vue-aplayer": "1.6.1",
     "vue-feather-icons": "^4.21.0",
     "vuepress-plugin-disqus": "^0.1.1",
     "vuepress-plugin-reading-progress": "^1.0.7",

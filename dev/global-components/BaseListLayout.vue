@@ -85,6 +85,7 @@ export default {
   // data: {
   //   bgImgUrl: ""
   // },
+
   computed: {
     pages () {
       return this.$pagination.pages;

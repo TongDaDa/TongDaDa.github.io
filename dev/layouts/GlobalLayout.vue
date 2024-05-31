@@ -2,12 +2,14 @@
   <section>
     <Header />
     <DefaultGlobalLayout />
+    <MusicPlayer />
     <Footer />
   </section>
 </template>
 
 <script>
 import GlobalLayout from "@app/components/GlobalLayout.vue";
+import MusicPlayer from "@theme/components/MuiscPlayer.vue";
 import Header from "@theme/components/Header.vue";
 import Footer from "@theme/components/Footer.vue";
 
@@ -15,6 +17,7 @@ export default {
   components: {
     DefaultGlobalLayout: GlobalLayout,
     Header,
+    MusicPlayer,
     Footer
   },
 
@@ -28,7 +31,8 @@ export default {
     this.$router.afterEach(() => {
       this.isMobileHeaderOpen = false;
     });
-  }
+  },
+
 };
 </script>
 

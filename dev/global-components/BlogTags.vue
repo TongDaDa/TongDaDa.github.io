@@ -1,6 +1,7 @@
 <template>
   <el-card
     shadow="hover"
+    id="homepage_blogtag"
     :body-style="{ padding: '1rem' }"
   >
     <ul class="list-unstyled">

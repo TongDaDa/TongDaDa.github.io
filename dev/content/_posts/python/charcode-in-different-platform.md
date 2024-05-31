@@ -37,8 +37,6 @@ it is open. For example, the series of ASCII, ISO/IEC character set all is close
 ### Character Encoding Schema(Also called: Serialization Format)
 > Unicode encoding scheme: A specified byte serialization for a Unicode encodingform, including the specification of the handling of a byte order mark (BOM), ifallowed.
 
-## Confused between <string> and <unicode>
-
 ## Where always happened the encoding problems?
 
 - Interpreter of python.
