@@ -1,5 +1,6 @@
 <template>
     <div class="p-music" id="float-music">
+      <client-only>
         <aplayer
             autoplay
             :mini="mini"
@@ -11,6 +12,7 @@
             :music="this.musicList[0]"
             :list="this.musicList"
         />
+      </client-only>
     </div>
 </template>
   
