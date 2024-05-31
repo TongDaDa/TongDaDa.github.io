@@ -2,10 +2,9 @@
     <div class="p-music" id="float-music">
       <client-only>
         <aplayer
-            autoplay
+            :autoplay="true"
             :mini="mini"
             show-lrc
-            shuffle
             :listFolded="true"
             :muted.sync="muted"
             :volume.sync="volume"
@@ -74,6 +73,7 @@
           }
         ],
         mini: false,
+        autoplay: false,
         volume: 0.7,
         muted: false,
       }
@@ -106,7 +106,7 @@
       }
       setTimeout(() => {
         window.addEventListener("scroll", trackPos);
-      }, 2000);
+      }, 1000);
       window.moveMusicBar = () => {
           const musicBarEle = document.getElementById("float-music");
           const timeInner = document.querySelectorAll(".aplayer-time-inner");
@@ -122,17 +122,19 @@
             musicBarEle.style.position = 'fixed';
             musicBarEle.style.display = "block"
           }
-        }
-        const afterRouteListener = (before, after) => {
+      }
+      const afterRouteListener = (before, after) => {
           if (before.path === "/") {
-            window.hompageRender();
+            setTimeout(() => {
+              window.hompageRender();
+            }, 1000);
           } else {
             window.moveMusicBar();
           }
         }
         this.$router.afterHooks.push(afterRouteListener);
         afterRouteListener(this.$route);
-    }
+      }
   };
   </script>
   
