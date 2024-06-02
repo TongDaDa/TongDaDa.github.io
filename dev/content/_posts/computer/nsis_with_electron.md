@@ -2,7 +2,7 @@
 date: '2020-05-14'
 slug: Writing NSIS script in electron
 tags:
-- native
+- computer
 title: Writing NSIS script in electron
 author: Oliver Liu
 location: Beijing;

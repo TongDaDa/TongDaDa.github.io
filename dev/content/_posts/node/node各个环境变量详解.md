@@ -2,7 +2,7 @@
 date: '2020-05-25'
 slug: node各个环境变量详解
 tags:
-- native
+- computer
 title: node各个环境变量详解
 author: Oliver Liu
 location: Beijing;

@@ -6,7 +6,8 @@ tags:
 title: The impression of view for the "this is us"
 author: Oliver
 location: Beijing;
-image: https://s.yimg.com/os/en/homerun/feed_manager_auto_publish_494/76617ed36f7e6bb26397b36278740f65
+image: https://img2.baidu.com/it/u=3066372055,1055476490&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500
+
 meta:
   - name: title
     content: The impression of view for the "this is us"

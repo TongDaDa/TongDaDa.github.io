@@ -2,7 +2,7 @@
 date: '2020-06-03'
 slug: 什么时候使用 peerDependencies?
 tags:
-- native
+- computer
 title: 什么时候使用 peerDependencies?
 author: Oliver Liu
 location: Beijing;

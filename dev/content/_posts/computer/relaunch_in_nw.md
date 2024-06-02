@@ -2,7 +2,7 @@
 date: '2020-5-25'
 slug: relaunch your application in nwjs
 tags:
-- native
+- computer
 title: Relaunch application in nwjs
 author: Oliver Liu
 location: Beijing;

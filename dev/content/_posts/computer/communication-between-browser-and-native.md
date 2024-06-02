@@ -2,7 +2,7 @@
 date: '2020-04-14'
 slug: communication-between-browser-and-native
 tags:
-- native
+- computer
 title: How to establish a message channel between browser and native application?
 author: Oliver Liu.
 location: Beijing;

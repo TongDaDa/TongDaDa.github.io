@@ -32,7 +32,7 @@ module.exports = {
     googleAnalytics: "UA-164508376-1", // Google Analytics tracking ID
     about: {
       fullName: "Oliver",
-      bio: "The passionate coding was my pursuit for a long time and I love the open source culture",
+      bio: "The passionate coding was my pursuit for a long time and I love the open source culture. 🇵🇸🇵🇸🇵🇸 Always support Palestinian",
       image: "https://avatars.githubusercontent.com/u/23241188?v=4"
     },
     footer: {
@@ -47,7 +47,7 @@ module.exports = {
         },
         {
           type: "linkedin",
-          link: "https://weibo.com/u/5736764406?is_all=1"
+          link: ""
         },
         {
           type: "twitter",

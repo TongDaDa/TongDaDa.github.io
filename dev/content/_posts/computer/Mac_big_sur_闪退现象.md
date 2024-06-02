@@ -2,7 +2,7 @@
 date: '2020-11-30'
 slug: Mac big sur 闪退现象分析
 tags: 
-- native
+- computer
 title: Mac big sur 闪退现象分析
 author: Oliver Liu
 location: Beijing;

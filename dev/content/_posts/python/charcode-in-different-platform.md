@@ -25,7 +25,7 @@ featured: false
 
 
 ## Basic knowledge
-Before avoid some problems we should know the period of encoding from input into output.
+Before avoiding some problems we should know the period of encoding from input into output.
 ### Abstract Character Repertoire(Abstract Character for short)
 It is a character set that **system support**, the set can be closed and open, it belong to computer's system and it will update the character set with the system's upgrade if 
 it is open. For example, the series of ASCII, ISO/IEC character set all is closed, which means they will never update the character set and for the opened Unicode character set 

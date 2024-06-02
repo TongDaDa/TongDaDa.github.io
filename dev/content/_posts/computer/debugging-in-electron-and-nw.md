@@ -2,7 +2,7 @@
 date: '2020-05-18'
 slug: debugging-in-electron-and-nw
 tags:
-- native
+- computer
 title: debugging in electron and nw
 author: Oliver
 location: Beijing;

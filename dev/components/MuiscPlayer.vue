@@ -4,9 +4,10 @@
         <aplayer
             :autoplay="true"
             :mini="mini"
-            show-lrc
+            showLrc
             :listFolded="true"
             :muted.sync="muted"
+            :listMaxHeight="'180px'"
             :volume.sync="volume"
             :music="this.musicList[0]"
             :list="this.musicList"
@@ -65,16 +66,44 @@
               pic: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Photo_zhaolei.jpg/220px-Photo_zhaolei.jpg'
           },
           {
-              title: "Just Missing You",
-              artist: 'Emma Heesters',
-              lrc: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/Just%20Missing%20You%20-%20Emma%20Heesters.lrc',
-              src: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/Just%20Missing%20You%20-%20Emma%20Heesters.mp3',
+              title: "Wake",
+              artist: 'Hillsong Young',
+              lrc: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/Hillsong%20Young%20And%20Free-Wake%28Live%29.lrc',
+              src: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/Hillsong%20Young%20And%20Free-Wake%28Live%29.mp3',
               pic: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Photo_zhaolei.jpg/220px-Photo_zhaolei.jpg'
-          }
+          },
+          {
+              title: "Someone You Loved",
+              artist: 'Sam Roman&Tom Barnes',
+              lrc: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/Emma%20Heesters%26Benjamin%20Kohn%26Lewis%20Capaldi%26Pete%20Kelleher%26Sam%20Roman%26Tom%20Barnes-Someone%20You%20Loved.lrc',
+              src: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/Emma%20Heesters%26Benjamin%20Kohn%26Lewis%20Capaldi%26Pete%20Kelleher%26Sam%20Roman%26Tom%20Barnes-Someone%20You%20Loved.mp3',
+              pic: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Photo_zhaolei.jpg/220px-Photo_zhaolei.jpg'
+          },
+          {
+              title: "违背的青春",
+              artist: '薛之谦',
+              lrc: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/%E8%96%9B%E4%B9%8B%E8%B0%A6-%E8%BF%9D%E8%83%8C%E7%9A%84%E9%9D%92%E6%98%A5.lrc',
+              src: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/%E8%96%9B%E4%B9%8B%E8%B0%A6-%E8%BF%9D%E8%83%8C%E7%9A%84%E9%9D%92%E6%98%A5.mp3',
+              pic: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Photo_zhaolei.jpg/220px-Photo_zhaolei.jpg'
+          },
+          {
+              title: "心墙",
+              artist: '郭静',
+              lrc: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/%E9%83%AD%E9%9D%99-%E5%BF%83%E5%A2%99.lrc',
+              src: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/%E9%83%AD%E9%9D%99-%E5%BF%83%E5%A2%99.mp3',
+              pic: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Photo_zhaolei.jpg/220px-Photo_zhaolei.jpg'
+          },
+          {
+              title: "执子之手",
+              artist: '宝石Gem',
+              lrc: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/%E5%AE%9D%E7%9F%B3Gem%26%E4%B8%80%E5%93%A9%E5%93%A9%E4%B8%80-%E6%89%A7%E5%AD%90%E4%B9%8B%E6%89%8B.lrc',
+              src: 'https://tongingtest.oss-cn-beijing.aliyuncs.com/%E5%AE%9D%E7%9F%B3Gem%26%E4%B8%80%E5%93%A9%E5%93%A9%E4%B8%80-%E6%89%A7%E5%AD%90%E4%B9%8B%E6%89%8B.mp3',
+              pic: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Photo_zhaolei.jpg/220px-Photo_zhaolei.jpg'
+          },
         ],
         mini: false,
         autoplay: false,
-        volume: 0.7,
+        volume: 0.5,
         muted: false,
       }
     },

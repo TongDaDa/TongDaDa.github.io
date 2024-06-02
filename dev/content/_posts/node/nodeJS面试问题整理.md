@@ -2,7 +2,7 @@
 date: '2021-02-04'
 slug: nodeJS面试问题
 tags:
-- native
+- computer
 title: nodeJS面试问题
 author: Oliver Liu
 location: Beijing;
