@@ -2,7 +2,7 @@
 date: '2020-06-19'
 slug: 关于遇到的一个DNS查询问题
 tags:
-- network
+- computer
 title: 关于遇到的一个DNS查询问题
 author: Oliver Liu
 location: Beijing;

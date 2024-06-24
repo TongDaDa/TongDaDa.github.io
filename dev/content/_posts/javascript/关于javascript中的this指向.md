@@ -2,7 +2,7 @@
 date: '2017-10-21'
 slug:  关于javascript中的this指向
 tags:
-- javascript
+- web
 title:  关于javascript中的this指向
 author: Oliver
 location: Beijing;

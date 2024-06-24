@@ -3,7 +3,6 @@ date: '2019-10-14'
 slug: Python ***
 tags:
 - python
-- unicode
 title: The perform of python's unicode problem on different computer
 description: The perform of python's unicode problem on different computer
 author: Oliver

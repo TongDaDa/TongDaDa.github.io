@@ -2,7 +2,7 @@
 date: '2020-03-14'
 slug: practicing lerna
 tags:
-- javascript
+- web
 title: Detecting lerna's actions in a repo.
 author: Oliver Liu
 location: Beijing;

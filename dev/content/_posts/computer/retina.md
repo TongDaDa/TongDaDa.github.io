@@ -2,8 +2,7 @@
 date: '2018-07-16'
 slug: 视网膜屏幕简单介绍
 tags:
-- mobile
-- unicode
+- web
 title: 视网膜屏幕简单介绍
 description: 视网膜屏幕简单介绍
 author: Oliver

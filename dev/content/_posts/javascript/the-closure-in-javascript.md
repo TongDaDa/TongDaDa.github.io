@@ -2,7 +2,7 @@
 date: '2017-11-28'
 slug: the-closure-in-javascript
 tags:
-- javascript
+- web
 title:  深入贯彻闭包思想，全面理解JS闭包形成过程
 author: Oliver
 location: Beijing;

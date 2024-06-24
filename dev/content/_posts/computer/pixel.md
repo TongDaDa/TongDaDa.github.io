@@ -2,8 +2,7 @@
 date: '2018-07-21'
 slug: 像素到底是什么？
 tags:
-- mobile
-- unicode
+- web
 title: 像素到底是什么？
 description: 像素到底是什么？
 author: Oliver

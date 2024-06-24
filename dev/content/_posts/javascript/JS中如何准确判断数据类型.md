@@ -2,7 +2,7 @@
 date: '2016-10-14'
 slug: JS中如何准确判断数据类型
 tags:
-- javascript
+- web
 title: JS中如何准确判断数据类型
 author: Oliver
 location: Beijing;
@@ -27,7 +27,7 @@ featured: false
  
 >我们讲过JS的几大数据类型，也用typeof查看了几个简单的数据类型值。那么今天我们再来更宽泛的了解一下这方面的知识。请看如下代码。
  
- 
+
 ```
 var num = 123;
 var str = 'aflypig';

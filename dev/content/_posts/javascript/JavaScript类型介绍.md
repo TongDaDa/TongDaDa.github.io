@@ -2,7 +2,7 @@
 date: '2017-03-18'
 slug: JavaScript 类型介绍
 tags:
-- javascript
+- web
 title: JavaScript 类型介绍
 author: Oliver
 location: Beijing;

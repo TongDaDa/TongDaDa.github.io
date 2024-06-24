@@ -2,7 +2,7 @@
 date: '2018-03-29'
 slug: 不为人知的javascript的内部属性
 tags:
-- javascript
+- web
 title: 不为人知的javascript的内部属性
 author: Oliver
 location: Beijing;

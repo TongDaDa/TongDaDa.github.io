@@ -2,7 +2,7 @@
 date: '2017-05-05'
 slug: JavaScript 封装对象与强制类型转换
 tags:
-- javascript
+- web
 title: JavaScript 封装对象与强制类型转换
 author: Oliver
 location: Beijing;

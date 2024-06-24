@@ -3,7 +3,6 @@ date: '2020-04-01'
 slug: all-about-in-emoji
 tags:
 - web
-- mobile
 title: All about in emoji
 author: Oliver Liu
 location: Beijing;

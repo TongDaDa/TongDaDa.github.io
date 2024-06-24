@@ -2,8 +2,7 @@
 date: '2018-07-29'
 slug: dpr介绍
 tags:
-- mobile
-- unicode
+- web
 title: css units
 description: dpr介绍
 author: Oliver

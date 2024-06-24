@@ -2,7 +2,7 @@
 date: '2017-05-05'
 slug:  Javascript Symbol 隐匿的未来之星
 tags:
-- javascript
+- web
 title:  Javascript Symbol 隐匿的未来之星
 author: Oliver
 location: Beijing;

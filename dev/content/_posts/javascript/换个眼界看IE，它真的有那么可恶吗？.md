@@ -2,7 +2,7 @@
 date: '2018-03-29'
 slug: 换个眼界看IE，它真的有那么可恶吗？
 tags:
-- javascript
+- web
 title: 换个眼界看IE，它真的有那么可恶吗？
 author: Oliver
 location: Beijing;

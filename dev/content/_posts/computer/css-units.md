@@ -2,8 +2,7 @@
 date: '2018-07-14'
 slug: css units
 tags:
-- mobile
-- unicode
+- web
 title: css units
 description: css 适配单位
 author: Oliver

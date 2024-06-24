@@ -2,7 +2,7 @@
 date: '2020-06-03'
 slug: Promise的十个使用禁令
 tags:
-- javascript
+- web
 title: Promise的十个使用禁令
 author: Oliver Liu
 location: Beijing;

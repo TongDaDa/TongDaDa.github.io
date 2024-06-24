@@ -2,8 +2,7 @@
 date: '2018-07-15'
 slug: 屏幕渲染原理-扫描
 tags:
-- mobile
-- css
+- web
 title: 屏幕渲染原理-扫描
 description: 屏幕渲染原理-扫描
 author: Oliver

@@ -3,7 +3,6 @@ date: '2022-08-15'
 slug: conclusion_of_charcode
 tags:
 - computer
-- unicode
 title: 关于编码的总结
 author: Oliver
 location: Beijing;
